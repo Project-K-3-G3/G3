@@ -1,0 +1,172 @@
+Table Users {
+    user_id INT [pk, increment]
+    username VARCHAR(50) [unique, not null]
+    password VARCHAR(255) [not null]
+    full_name VARCHAR(100) [not null]
+    email VARCHAR(100) [unique, not null]
+    phone_number VARCHAR(15)
+    address VARCHAR(255)
+    user_type ENUM('Customer', 'Employee') [not null]
+    created_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+}
+
+Table Customers {
+    customer_id INT [pk, increment]
+    user_id INT [ref: > Users.user_id]
+    full_name VARCHAR(100) [not null]
+    phone_number VARCHAR(15)
+    address VARCHAR(255)
+}
+
+Table Vehicles {
+    vehicle_id INT [pk, increment]
+    customer_id INT [ref: > Customers.customer_id]
+    vehicle_name VARCHAR(100) [not null]
+    vehicle_model VARCHAR(100) [not null]
+    vehicle_version VARCHAR(100)
+    body_number VARCHAR(50)
+    engine_number VARCHAR(50)
+    vehicle_rate DECIMAL(10, 2)
+}
+
+Table VehicleImages {
+    image_id INT [pk, increment]
+    vehicle_id INT [ref: > Vehicles.vehicle_id]
+    image_type ENUM('Vehicle', 'Insurance Document', 'Claim Document') [not null]
+    image_path VARCHAR(255) [not null]
+    description TEXT
+    uploaded_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+}
+
+Table Estimates {
+    estimate_id INT [pk, increment]
+    customer_id INT [ref: > Customers.customer_id]
+    vehicle_id INT [ref: > Vehicles.vehicle_id]
+    policy_type VARCHAR(50) [not null]
+    warranty VARCHAR(50)
+    estimate_amount DECIMAL(10, 2) [not null]
+    created_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+}
+
+Table InsurancePolicies {
+    policy_id INT [pk, increment]
+    customer_id INT [ref: > Customers.customer_id]
+    vehicle_id INT [ref: > Vehicles.vehicle_id]
+    policy_number VARCHAR(50) [unique, not null]
+    policy_start_date DATE [not null]
+    policy_end_date DATE [not null]
+    policy_type VARCHAR(50) [not null]
+    policy_amount DECIMAL(10, 2) [not null]
+}
+
+Table Payments {
+    payment_id INT [pk, increment]
+    customer_id INT [ref: > Customers.customer_id]
+    policy_id INT [ref: > InsurancePolicies.policy_id]
+    bill_number VARCHAR(50) [unique, not null]
+    payment_date DATE [not null]
+    payment_amount DECIMAL(10, 2) [not null]
+}
+
+Table Claims {
+    claim_id INT [pk, increment]
+    policy_id INT [ref: > InsurancePolicies.policy_id]
+    claim_number VARCHAR(50) [unique, not null]
+    accident_date DATE [not null]
+    place_of_accident VARCHAR(255)
+    insured_amount DECIMAL(10, 2) [not null]
+    claimable_amount DECIMAL(10, 2) [not null]
+    created_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+}
+
+Table CompanyExpenses {
+    expense_id INT [pk, increment]
+    expense_type VARCHAR(50) [not null]
+    expense_date DATE [not null]
+    expense_amount DECIMAL(10, 2) [not null]
+    created_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+}
+
+Table Reports {
+    report_id INT [pk, increment]
+    report_type VARCHAR(50) [not null]
+    generated_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+    description TEXT
+}
+
+Table LoginLogs {
+    log_id INT [pk, increment]
+    user_id INT [ref: > Users.user_id]
+    login_time TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+    ip_address VARCHAR(50)
+}
+
+Table InsuranceHistory {
+    history_id INT [pk, increment]
+    policy_id INT [ref: > InsurancePolicies.policy_id]
+    change_date TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+    change_type VARCHAR(50)
+    old_value TEXT
+    new_value TEXT
+    changed_by INT [ref: > Users.user_id]
+}
+
+Table SpecialInsuranceRequests {
+    request_id INT [pk, increment]
+    customer_id INT [ref: > Customers.customer_id]
+    vehicle_id INT [ref: > Vehicles.vehicle_id]
+    request_type VARCHAR(100)
+    request_description TEXT
+    request_date TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+    status ENUM('Pending', 'Approved', 'Denied') [default: 'Pending']
+}
+
+Table CustomerSupportRequests {
+    support_id INT [pk, increment]
+    customer_id INT [ref: > Customers.customer_id]
+    support_type VARCHAR(100)
+    support_description TEXT
+    support_status ENUM('Open', 'Closed', 'Pending') [default: 'Open']
+    created_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+    resolved_at TIMESTAMP
+    resolved_by INT [ref: > Users.user_id]
+}
+
+Table Notifications {
+    notification_id INT [pk, increment]
+    customer_id INT [ref: > Customers.customer_id]
+    message_type VARCHAR(100)
+    message_content TEXT
+    sent_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+    is_read BOOLEAN [default: false]
+}
+Table Contacts {
+    id INT [pk, increment]
+    customer_id INT [ref: > Customers.customer_id]
+    full_name VARCHAR(255) [not null]
+    email VARCHAR(255) [not null]
+    phone VARCHAR(20) [not null]
+    subject VARCHAR(255) [not null]
+    message TEXT [not null]
+    date_added DATETIME [not null]
+    date_modified DATETIME [not null]
+    status BOOLEAN [not null]
+}
+
+Table BannerImages {
+    id INT [pk, increment]
+    image VARCHAR(255) [not null]
+    link VARCHAR(255)
+    sort_order INT [not null]
+    status BOOLEAN [not null]
+}
+Table Comments {
+    comment_id INT [pk, increment]
+    customer_id INT [ref: > Customers.customer_id]
+    related_table ENUM('InsurancePolicies', 'Claims', 'CustomerSupportRequests') [not null]
+    related_id INT [not null]
+    comment_text TEXT [not null]
+   rating INT
+    created_at TIMESTAMP [default: `CURRENT_TIMESTAMP`]
+    status ENUM('Active', 'Archived') [default: 'Active']
+}
