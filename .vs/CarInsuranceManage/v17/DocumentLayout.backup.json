@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\laragon\\www\\CarInsuranceManage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|c:\\laragon\\www\\carinsurancemanage\\carinsurancemanage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|solutionrelative:carinsurancemanage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|c:\\laragon\\www\\carinsurancemanage\\carinsurancemanage\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|solutionrelative:carinsurancemanage\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|c:\\laragon\\www\\carinsurancemanage\\carinsurancemanage\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|solutionrelative:carinsurancemanage\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|c:\\laragon\\www\\carinsurancemanage\\carinsurancemanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|solutionrelative:carinsurancemanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|c:\\laragon\\www\\carinsurancemanage\\carinsurancemanage\\models\\specialinsurancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|solutionrelative:carinsurancemanage\\models\\specialinsurancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|c:\\laragon\\www\\carinsurancemanage\\carinsurancemanage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|solutionrelative:carinsurancemanage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|c:\\laragon\\www\\carinsurancemanage\\carinsurancemanage\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|solutionrelative:carinsurancemanage\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D0F3E2F-97D5-441A-B9D1-137ADA91D722}|CarInsuranceManage\\CarInsuranceManage.csproj|c:\\laragon\\www\\carinsurancemanage\\carinsurancemanage\\database\\carinsurancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,59 +142,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "CarInsuranceManage\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "CarInsuranceManage\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-20T12:07:31.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "SpecialInsuranceRequest.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\SpecialInsuranceRequest.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\SpecialInsuranceRequest.cs",
               "ToolTip": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\SpecialInsuranceRequest.cs",
               "RelativeToolTip": "CarInsuranceManage\\Models\\SpecialInsuranceRequest.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T11:37:00.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Program.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Program.cs",
               "ToolTip": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Program.cs",
               "RelativeToolTip": "CarInsuranceManage\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwCkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T11:40:25.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "CarInsuranceManage\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAALoBAAAAAAAAAAAAAMABAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarInsuranceManage\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-18T11:47:45.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Views\\Shared\\_LayoutAdmin.cshtml",
@@ -206,12 +189,11 @@
               "RelativeToolTip": "CarInsuranceManage\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-18T11:48:36.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T11:48:36.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "VehicleImage.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\VehicleImage.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\VehicleImage.cs",
@@ -223,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\Vehicle.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\Vehicle.cs",
@@ -235,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\User.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\User.cs",
@@ -247,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CustomerSupportRequest.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\CustomerSupportRequest.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\CustomerSupportRequest.cs",
@@ -259,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CarInsuranceDbContext.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Database\\CarInsuranceDbContext.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Database\\CarInsuranceDbContext.cs",
@@ -267,12 +249,11 @@
               "RelativeToolTip": "CarInsuranceManage\\Database\\CarInsuranceDbContext.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAowHQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T11:39:53.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T11:39:53.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "mysql.txt",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Database\\mysql.txt",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Database\\mysql.txt",
@@ -284,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Report.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\Report.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\Report.cs",
@@ -296,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\Payment.cs",
@@ -308,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\Notification.cs",
@@ -320,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "LoginLog.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\LoginLog.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\LoginLog.cs",
@@ -332,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "InsurancePolicy.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\InsurancePolicy.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\InsurancePolicy.cs",
@@ -344,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "InsuranceHistory.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\InsuranceHistory.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\InsuranceHistory.cs",
@@ -356,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Estimate.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\Estimate.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\Estimate.cs",
@@ -368,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\ErrorViewModel.cs",
@@ -380,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\Customer.cs",
@@ -392,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\Contact.cs",
@@ -404,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "CompanyExpense.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\CompanyExpense.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\CompanyExpense.cs",
@@ -416,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\Comment.cs",
@@ -428,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "BannerImage.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\BannerImage.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\BannerImage.cs",
@@ -440,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Claim.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Models\\Claim.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Models\\Claim.cs",
@@ -452,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "document_database.txt",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Database\\document_database.txt",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Database\\document_database.txt",
@@ -464,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "data.png",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Database\\data.png",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Database\\data.png",
@@ -475,7 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Controllers\\AdminController.cs",
@@ -487,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "dbdiagram.txt",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\Database\\dbdiagram.txt",
               "RelativeDocumentMoniker": "CarInsuranceManage\\Database\\dbdiagram.txt",
@@ -499,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\appsettings.json",
               "RelativeDocumentMoniker": "CarInsuranceManage\\appsettings.json",
