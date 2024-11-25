@@ -30,7 +30,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();  // Cấu hình cho phép phục vụ các tài nguyên tĩnh như hình ảnh, CSS, JS
-
+app.MapDefaultControllerRoute();
 app.UseRouting();
 
 // Cấu hình cho phép xác thực và ủy quyền (nếu có)

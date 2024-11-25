@@ -18,10 +18,26 @@ namespace CarInsuranceManage.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult about()
         {
             return View();
         }
+
+        public IActionResult blog()
+        {
+            return View();
+        }
+
+        public IActionResult privacy()
+        {
+            return View();
+        }
+
+        public IActionResult insurance_form()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
