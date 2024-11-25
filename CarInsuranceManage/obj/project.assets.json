@@ -3105,7 +3105,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
+      "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Sqlite >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0"
     ]
@@ -3117,11 +3117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\CarInsuranceManage.csproj",
+      "projectUniqueName": "D:\\T2307A\\S3\\CarInsuranceManage\\CarInsuranceManage.csproj",
       "projectName": "CarInsuranceManage",
-      "projectPath": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\CarInsuranceManage.csproj",
+      "projectPath": "D:\\T2307A\\S3\\CarInsuranceManage\\CarInsuranceManage.csproj",
       "packagesPath": "C:\\Users\\bahat\\.nuget\\packages\\",
-      "outputPath": "C:\\laragon\\www\\CarInsuranceManage\\CarInsuranceManage\\obj\\",
+      "outputPath": "D:\\T2307A\\S3\\CarInsuranceManage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3161,9 +3161,7 @@
       "net9.0": {
         "targetAlias": "net9.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[9.0.0, )"
           },

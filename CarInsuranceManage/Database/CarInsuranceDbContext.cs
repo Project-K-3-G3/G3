@@ -1,4 +1,4 @@
-﻿using CarInsuranceManage.Models;
+using CarInsuranceManage.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 

@@ -1,8 +1,0 @@
-tải dự án về đúng link này nhé
-https://github.com/Project-K-3-G3/project3.git
-Kết nối đến database thì ae xem đã tải sqllite chưa nếu chưa vô extensions tải nhé
-nếu ae muốn tự tạo lại database thì xem qua ghi chú sau
-tải dự án về muốn tạo database thì gõ câu lệnh như này
- trỏ đúng thư mục nhé CarInsuranceManage\CarInsuranceManage > dotnet ef mirations add CarInsurance
-sau khi hiện done thì gõ thêm câu lệnh > dotnet ef database update
-là nó tự tạo database nếu khó quá có thể xem qua video ở dưới file này 
