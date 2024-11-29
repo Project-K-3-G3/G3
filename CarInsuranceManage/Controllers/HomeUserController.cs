@@ -17,7 +17,7 @@ namespace CarInsuranceManage.Controllers
         {
             return View();
         }
-
+        [Route("about")]
         public IActionResult about()
         {
             return View();

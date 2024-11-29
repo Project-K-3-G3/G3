@@ -4,6 +4,7 @@ using CarInsuranceManage.Database; // Thay đổi theo namespace của dự án 
 
 var builder = WebApplication.CreateBuilder(args);
 
+
 // Cấu hình DbContext với SQLite
 builder.Services.AddDbContext<CarInsuranceDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("CarInsuranceDb"))); // Sử dụng connection string từ appsettings.json hoặc trực tiếp
