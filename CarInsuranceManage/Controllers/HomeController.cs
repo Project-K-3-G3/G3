@@ -6,11 +6,12 @@ namespace CarInsuranceManage.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return View("~/Views/Admin/Home/Index.cshtml"); 
         }
-         public IActionResult Dashboard()
+
+        public IActionResult Dashboard()
         {
-            return View();
+            return View("~/Views/Admin/Home/Dashboard.cshtml");
         }
     }
 }

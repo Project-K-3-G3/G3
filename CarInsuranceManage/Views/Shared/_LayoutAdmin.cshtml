@@ -10,14 +10,14 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>CIS - Admin Dashboard</title>
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="~/assetsAdmin/images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/admin-assets/images/favicon.png">
     <!-- Pignose Calender -->
-    <link href="~/assetsAdmin/plugins/pg-calendar/css/pignose.calendar.min.css" rel="stylesheet">
+    <link href="~/admin-assets/plugins/pg-calendar/css/pignose.calendar.min.css" rel="stylesheet">
     <!-- Chartist -->
-    <link rel="stylesheet" href="~/assetsAdmin/plugins/chartist/css/chartist.min.css">
-    <link rel="stylesheet" href="~/assetsAdmin/plugins/chartist-plugin-tooltips/css/chartist-plugin-tooltip.css">
+    <link rel="stylesheet" href="~/admin-assets/plugins/chartist/css/chartist.min.css">
+    <link rel="stylesheet" href="~/admin-assets/plugins/chartist-plugin-tooltips/css/chartist-plugin-tooltip.css">
     <!-- Custom Stylesheet -->
-    <link rel="stylesheet" href="~/assetsAdmin/css/style.css">
+    <link rel="stylesheet" href="~/admin-assets/css/style.css">
 </head>
 
 <body>
@@ -34,10 +34,10 @@
         <div class="nav-header">
             <div class="brand-logo">
                 <a asp-area="" asp-controller="Home" asp-action="Index">
-                    <b class="logo-abbr"><img src="~/assetsAdmin/images/logo.png" alt=""> </b>
-                    <span class="logo-compact"><img src="~/assetsAdmin/images/logo-compact.png" alt=""></span>
+                    <b class="logo-abbr"><img src="~/admin-assets/images/logo.png" alt=""> </b>
+                    <span class="logo-compact"><img src="~/admin-assets/images/logo-compact.png" alt=""></span>
                     <span class="brand-title">
-                        <img src="~/assetsAdmin/images/logo-text.png" alt="">
+                        <img src="~/admin-assets/images/logo-text.png" alt="">
                     </span>
                 </a>
             </div>
@@ -81,7 +81,7 @@
                                     <ul>
                                         <li class="notification-unread">
                                             <a href="javascript:void()">
-                                                <img class="float-left mr-3 avatar-img" src="~/assetsAdmin/images/avatar/1.jpg" alt="">
+                                                <img class="float-left mr-3 avatar-img" src="~/admin-assets/images/avatar/1.jpg" alt="">
                                                 <div class="notification-content">
                                                     <div class="notification-heading">Saiful Islam</div>
                                                     <div class="notification-timestamp">08 Hours ago</div>
@@ -91,7 +91,7 @@
                                         </li>
                                         <li class="notification-unread">
                                             <a href="javascript:void()">
-                                                <img class="float-left mr-3 avatar-img" src="~/assetsAdmin/images/avatar/2.jpg" alt="">
+                                                <img class="float-left mr-3 avatar-img" src="~/admin-assets/images/avatar/2.jpg" alt="">
                                                 <div class="notification-content">
                                                     <div class="notification-heading">Adam Smith</div>
                                                     <div class="notification-timestamp">08 Hours ago</div>
@@ -101,7 +101,7 @@
                                         </li>
                                         <li>
                                             <a href="javascript:void()">
-                                                <img class="float-left mr-3 avatar-img" src="~/assetsAdmin/images/avatar/3.jpg" alt="">
+                                                <img class="float-left mr-3 avatar-img" src="~/admin-assets/images/avatar/3.jpg" alt="">
                                                 <div class="notification-content">
                                                     <div class="notification-heading">Barak Obama</div>
                                                     <div class="notification-timestamp">08 Hours ago</div>
@@ -111,7 +111,7 @@
                                         </li>
                                         <li>
                                             <a href="javascript:void()">
-                                                <img class="float-left mr-3 avatar-img" src="~/assetsAdmin/images/avatar/4.jpg" alt="">
+                                                <img class="float-left mr-3 avatar-img" src="~/admin-assets/images/avatar/4.jpg" alt="">
                                                 <div class="notification-content">
                                                     <div class="notification-heading">Hilari Clinton</div>
                                                     <div class="notification-timestamp">08 Hours ago</div>
@@ -194,7 +194,7 @@
                         <li class="icons dropdown">
                             <div class="user-img c-pointer position-relative"   data-toggle="dropdown">
                                 <span class="activity active"></span>
-                                <img src="~/assetsAdmin/images/user/1.png" height="40" width="40" alt="">
+                                <img src="~/admin-assets/images/user/1.png" height="40" width="40" alt="">
                             </div>
                             <div class="drop-down dropdown-profile  dropdown-menu">
                                 <div class="dropdown-content-body">
@@ -260,7 +260,7 @@
                         </a>
                         <ul aria-expanded="false">
                             <li><a asp-controller="App" asp-action="Profile">Profile</a></li>
-                            <li><a asp-controller="App" asp-action="Calender">Calender</a></li>
+                            <li><a asp-controller="App" asp-action="Calendar">Calendar</a></li>
                         </ul>
                     </li>
                     <li>
@@ -352,35 +352,25 @@
         </div>
        
         @RenderBody()
-       
-        <div class="footer">
-            <div class="copyright">
-                <p>Copyright &copy; Designed & Developed by <a href="https://themeforest.net/user/quixlab">Quixlab</a> 2018</p>
-            </div>
-        </div>
-       
     </div>
     
-    <script src="~/assetsAdmin/plugins/common/common.min.js"></script>
-    <script src="~/assetsAdmin/js/custom.min.js"></script>
-    <script src="~/assetsAdmin/js/settings.js"></script>
-    <script src="~/assetsAdmin/js/gleek.js"></script>
-    <script src="~/assetsAdmin/js/styleSwitcher.js"></script>
+    <script src="~/admin-assets/plugins/common/common.min.js"></script>
+    <script src="~/admin-assets/js/custom.min.js"></script>
+    <script src="~/admin-assets/js/settings.js"></script>
+    <script src="~/admin-assets/js/gleek.js"></script>
+    <script src="~/admin-assets/js/styleSwitcher.js"></script>
 
     <!-- Chartjs -->
-    <script src="~/assetsAdmin/plugins/chart.js/Chart.bundle.min.js"></script>
+    <script src="~/admin-assets/plugins/chart.js/Chart.bundle.min.js"></script>
     <!-- Circle progress -->
-    <script src="~/assetsAdmin/plugins/circle-progress/circle-progress.min.js"></script>
+    <script src="~/admin-assets/plugins/circle-progress/circle-progress.min.js"></script>
     <!-- Morrisjs -->
-    <script src="~/assetsAdmin/plugins/raphael/raphael.min.js"></script>
-    <script src="~/assetsAdmin/plugins/morris/morris.min.js"></script>
+    <script src="~/admin-assets/plugins/raphael/raphael.min.js"></script>
+    <script src="~/admin-assets/plugins/morris/morris.min.js"></script>
     <!-- ChartistJS -->
-    <script src="~/assetsAdmin/plugins/chartist/js/chartist.min.js"></script>
-    <script src="~/assetsAdmin/plugins/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js"></script>
-
-
-
-    <script src="~/assetsAdmin/js/dashboard/dashboard-1.js"></script>
+    <script src="~/admin-assets/plugins/chartist/js/chartist.min.js"></script>
+    <script src="~/admin-assets/plugins/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js"></script>
+    <script src="~/admin-assets/js/dashboard/dashboard-1.js"></script>
 
 </body>
 </html>
