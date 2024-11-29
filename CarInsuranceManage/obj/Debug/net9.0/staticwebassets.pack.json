@@ -1,1824 +1,1824 @@
 {
   "Files": [
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CarInsuranceManage.bundle.scp.css",
+      "Id": "D:\\G3\\CarInsuranceManage\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CarInsuranceManage.bundle.scp.css",
       "PackagePath": "staticwebassets\\CarInsuranceManage.z7y11pqx3e.bundle.scp.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\cis.webp",
-      "PackagePath": "staticwebassets\\assets\\cis.webp"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\cis.webp",
+      "PackagePath": "staticwebassets\\assetsAdmin\\cis.webp"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\css\\style.css",
-      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\css\\style.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\css\\style.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\cryptocoins\\css\\cryptocoins-colors.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\cryptocoins\\css\\cryptocoins-colors.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\cryptocoins\\css\\cryptocoins-colors.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\cryptocoins\\css\\cryptocoins-colors.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\cryptocoins\\css\\cryptocoins.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\cryptocoins\\css\\cryptocoins.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\cryptocoins\\css\\cryptocoins.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\cryptocoins\\css\\cryptocoins.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\cryptocoins\\fonts\\cryptocoins.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\cryptocoins\\fonts\\cryptocoins.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\cryptocoins\\fonts\\cryptocoins.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\cryptocoins\\fonts\\cryptocoins.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\cryptocoins\\fonts\\cryptocoins.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\cryptocoins\\fonts\\cryptocoins.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\cryptocoins\\fonts\\cryptocoins.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\cryptocoins\\fonts\\cryptocoins.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\cryptocoins\\fonts\\cryptocoins.woff2",
-      "PackagePath": "staticwebassets\\assets\\icons\\cryptocoins\\fonts\\cryptocoins.woff2"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\cryptocoins\\fonts\\cryptocoins.woff2",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\cryptocoins\\fonts\\cryptocoins.woff2"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\facebook.png",
-      "PackagePath": "staticwebassets\\assets\\icons\\facebook.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\facebook.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\facebook.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flag-icon.min.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flag-icon.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flag-icon.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ad.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ad.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ad.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ad.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ae.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ae.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ae.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ae.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\af.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\af.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\af.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\af.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ag.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ag.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ag.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ag.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ai.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ai.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ai.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ai.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\al.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\al.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\al.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\al.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\am.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\am.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\am.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\am.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ao.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ao.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ao.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ao.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\aq.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\aq.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\aq.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\aq.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ar.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ar.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ar.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\as.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\as.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\as.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\as.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\at.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\at.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\at.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\at.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\au.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\au.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\au.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\aw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\aw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\aw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\aw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ax.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ax.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ax.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ax.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\az.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\az.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\az.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\az.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ba.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ba.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ba.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ba.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bb.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bb.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bb.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bb.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bd.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bd.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bd.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bd.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\be.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\be.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\be.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\be.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bf.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bf.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bf.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bf.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bh.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bh.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bh.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bh.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bi.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bi.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bi.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bi.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bj.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bj.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bj.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bj.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bl.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bl.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bl.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bl.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bo.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bo.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bo.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bo.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bq.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bq.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bq.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bq.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\br.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\br.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\br.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\br.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bs.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bs.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bs.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bs.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bt.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bt.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bt.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bt.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bv.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bv.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bv.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bv.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\by.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\by.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\by.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\by.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\bz.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\bz.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\bz.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\bz.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ca.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ca.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ca.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ca.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cc.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cc.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cc.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cc.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cd.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cd.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cd.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cd.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cf.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cf.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cf.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cf.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ch.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ch.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ch.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ch.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ci.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ci.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ci.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ci.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ck.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ck.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ck.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ck.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cl.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cl.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cl.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cl.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\co.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\co.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\co.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\co.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cu.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cu.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cu.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cu.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cv.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cv.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cv.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cv.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cx.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cx.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cx.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cx.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cy.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cy.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cy.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cy.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\cz.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\cz.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\cz.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\cz.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\de.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\de.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\de.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\de.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\dj.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\dj.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\dj.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\dj.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\dk.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\dk.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\dk.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\dk.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\dm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\dm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\dm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\dm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\do.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\do.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\do.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\do.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\dz.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\dz.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\dz.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\dz.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ec.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ec.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ec.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ec.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ee.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ee.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ee.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ee.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\eg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\eg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\eg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\eg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\eh.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\eh.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\eh.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\eh.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\er.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\er.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\er.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\er.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\es.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\es.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\es.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\es.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\et.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\et.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\et.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\et.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fi.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fi.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\fi.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\fi.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fj.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fj.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\fj.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\fj.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fk.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fk.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\fk.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\fk.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\fm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\fm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fo.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fo.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\fo.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\fo.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\fr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\fr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\fr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ga.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ga.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ga.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ga.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gb.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gb.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gb.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gd.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gd.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gd.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gd.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ge.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ge.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ge.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ge.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gf.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gf.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gf.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gf.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gh.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gh.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gh.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gh.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gi.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gi.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gi.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gi.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gl.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gl.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gl.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gl.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gp.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gp.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gp.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gp.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gq.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gq.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gq.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gq.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gs.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gs.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gs.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gs.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gt.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gt.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gt.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gt.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gu.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gu.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gu.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gu.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\gy.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\gy.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\gy.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\gy.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hk.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hk.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\hk.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\hk.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\hm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\hm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\hn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\hn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\hr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\hr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ht.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ht.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ht.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ht.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\hu.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\hu.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\hu.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\hu.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\id.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\id.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\id.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\id.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ie.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ie.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ie.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ie.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\il.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\il.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\il.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\il.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\im.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\im.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\im.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\im.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\in.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\in.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\in.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\io.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\io.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\io.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\io.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\iq.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\iq.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\iq.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\iq.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ir.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ir.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ir.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ir.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\is.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\is.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\is.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\is.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\it.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\it.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\it.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\je.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\je.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\je.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\je.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\jm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\jm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\jm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\jm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\jo.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\jo.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\jo.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\jo.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\jp.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\jp.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\jp.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\jp.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ke.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ke.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ke.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ke.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\kg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\kg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kh.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kh.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\kh.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\kh.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ki.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ki.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ki.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ki.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\km.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\km.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\km.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\km.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\kn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\kn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kp.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kp.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\kp.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\kp.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\kr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\kr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\kw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\kw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ky.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ky.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ky.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ky.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\kz.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\kz.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\kz.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\kz.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\la.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\la.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\la.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\la.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lb.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lb.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\lb.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\lb.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lc.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lc.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\lc.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\lc.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\li.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\li.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\li.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\li.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lk.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lk.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\lk.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\lk.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\lr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\lr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ls.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ls.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ls.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ls.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lt.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lt.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\lt.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\lt.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lu.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lu.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\lu.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\lu.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\lv.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\lv.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\lv.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\lv.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ly.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ly.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ly.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ly.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ma.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ma.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ma.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ma.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mc.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mc.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mc.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mc.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\md.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\md.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\md.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\md.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\me.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\me.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\me.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\me.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mf.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mf.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mf.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mf.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mh.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mh.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mh.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mh.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mk.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mk.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mk.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mk.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ml.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ml.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ml.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ml.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mo.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mo.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mo.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mo.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mp.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mp.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mp.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mp.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mq.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mq.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mq.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mq.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ms.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ms.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ms.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ms.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mt.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mt.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mt.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mt.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mu.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mu.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mu.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mu.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mv.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mv.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mv.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mv.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mx.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mx.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mx.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mx.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\my.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\my.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\my.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\my.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\mz.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\mz.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\mz.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\mz.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\na.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\na.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\na.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\na.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nc.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nc.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\nc.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\nc.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ne.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ne.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ne.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ne.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nf.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nf.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\nf.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\nf.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ng.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ng.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ng.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ng.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ni.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ni.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ni.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ni.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nl.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nl.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\nl.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\nl.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\no.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\no.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\no.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\no.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\np.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\np.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\np.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\np.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\nr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\nr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nu.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nu.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\nu.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\nu.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\nz.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\nz.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\nz.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\om.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\om.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\om.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\om.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pa.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pa.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pa.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pa.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pe.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pe.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pe.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pe.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pf.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pf.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pf.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pf.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ph.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ph.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ph.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ph.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pk.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pk.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pk.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pk.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pl.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pl.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pl.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pl.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ps.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ps.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ps.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ps.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pt.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pt.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pt.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pt.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\pw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\pw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\pw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\pw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\py.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\py.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\py.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\py.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\qa.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\qa.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\qa.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\qa.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\re.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\re.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\re.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\re.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ro.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ro.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ro.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ro.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\rs.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\rs.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\rs.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\rs.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ru.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ru.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ru.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\rw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\rw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\rw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\rw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sa.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sa.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sa.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sa.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sb.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sb.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sb.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sb.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sc.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sc.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sc.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sc.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sd.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sd.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sd.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sd.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\se.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\se.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\se.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\se.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sh.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sh.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sh.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sh.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\si.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\si.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\si.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\si.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sj.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sj.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sj.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sj.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sk.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sk.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sk.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sk.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sl.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sl.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sl.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sl.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\so.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\so.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\so.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\so.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ss.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ss.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ss.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ss.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\st.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\st.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\st.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\st.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sv.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sv.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sv.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sv.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sx.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sx.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sx.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sx.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sy.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sy.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sy.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sy.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\sz.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\sz.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\sz.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\sz.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tc.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tc.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tc.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tc.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\td.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\td.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\td.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\td.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tf.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tf.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tf.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tf.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\th.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\th.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\th.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\th.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tj.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tj.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tj.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tj.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tk.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tk.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tk.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tk.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tl.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tl.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tl.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tl.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\to.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\to.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\to.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\to.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tr.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tr.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tr.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tt.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tt.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tt.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tt.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tv.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tv.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tv.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tv.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\tz.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\tz.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\tz.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\tz.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ua.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ua.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ua.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ua.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ug.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ug.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ug.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ug.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\um.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\um.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\um.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\um.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\us.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\us.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\us.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\uy.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\uy.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\uy.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\uy.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\uz.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\uz.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\uz.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\uz.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\va.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\va.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\va.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\va.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vc.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vc.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\vc.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\vc.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ve.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ve.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ve.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ve.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vg.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vg.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\vg.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\vg.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vi.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vi.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\vi.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\vi.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vn.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vn.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\vn.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\vn.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\vu.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\vu.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\vu.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\vu.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\wf.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\wf.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\wf.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\wf.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ws.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ws.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ws.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ws.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\ye.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\ye.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\ye.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\ye.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\yt.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\yt.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\yt.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\yt.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\za.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\za.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\za.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\za.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\zm.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\zm.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\zm.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\zm.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\flag-icon-css\\flags\\zw.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\flag-icon-css\\flags\\zw.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\flag-icon-css\\flags\\zw.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\flag-icon-css\\flags\\zw.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\font-awesome\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\css\\font-awesome.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff2",
-      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff2"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff2",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfont3e6e3e6e.woff2"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfontd41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\font-awesome\\fonts\\fontawesome-webfontd41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfontd41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\font-awesome\\fonts\\fontawesome-webfontd41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\google.png",
-      "PackagePath": "staticwebassets\\assets\\icons\\google.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\google.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\google.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\ionicons\\css\\ionicons.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\ionicons\\css\\ionicons.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\ionicons\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\ionicons\\css\\ionicons.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\ionicons\\fonts\\ionicons28b5.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\ionicons\\fonts\\ionicons28b5.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\ionicons\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\ionicons\\fonts\\ionicons28b5.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\ionicons\\fonts\\ionicons28b5.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\ionicons\\fonts\\ionicons28b5.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\ionicons\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\ionicons\\fonts\\ionicons28b5.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\ionicons\\fonts\\ionicons28b5.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\ionicons\\fonts\\ionicons28b5.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\ionicons\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\ionicons\\fonts\\ionicons28b5.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\ionicons\\fonts\\ionicons28b5.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\ionicons\\fonts\\ionicons28b5.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\ionicons\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\ionicons\\fonts\\ionicons28b5.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10d41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-arrows-10d41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-arrows-10d41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-10.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-10.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-10.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-10.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-10.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-10.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-10.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-10.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-10d41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-10d41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-10d41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-basic-elaboration-10d41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-ecommerce-10d41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-music-10.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-music-10.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-music-10.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-music-10.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-music-10.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-music-10.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-music-10.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-music-10.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-music-10d41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-music-10d41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-music-10d41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-software-10.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-software-10.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-software-10.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-software-10.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-software-10.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-software-10.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-software-10.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-software-10.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-software-10d41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-software-10d41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-software-10d41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-weather-10.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-weather-10.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-weather-10.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-weather-10.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-weather-10.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-weather-10.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-weather-10.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-weather-10.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\fonts\\linea-weather-10d41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\fonts\\linea-weather-10d41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10d41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\fonts\\linea-weather-10d41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\linea-icons\\linea.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\linea-icons\\linea.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\linea-icons\\linea.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\linea-icons\\linea.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff2",
-      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff2"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff2",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfont683c.woff2"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\material-design-iconic-font\\fonts\\materialdesignicons-webfontd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\material-design-iconic-font\\materialdesignicons.min.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\material-design-iconic-font\\materialdesignicons.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\material-design-iconic-font\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\material-design-iconic-font\\materialdesignicons.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\pe-icon-set-weather\\css\\pe-icon-set-weather.min.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\pe-icon-set-weather\\css\\pe-icon-set-weather.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\pe-icon-set-weather\\css\\pe-icon-set-weather.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\pe-icon-set-weather\\css\\pe-icon-set-weather.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\pe-icon-set-weather\\fonts\\pe-icon-set-weathere60d.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\simple-line-icons\\css\\simple-line-icons.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\css\\simple-line-icons.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\simple-line-icons\\css\\simple-line-icons.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff2",
-      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff2"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff2",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Icons4c824c82.woff2"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Iconsd41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\simple-line-icons\\fonts\\Simple-Line-Iconsd41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Iconsd41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\simple-line-icons\\fonts\\Simple-Line-Iconsd41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\themify-icons\\fonts\\themify.ttf",
-      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\fonts\\themify.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\themify-icons\\fonts\\themify.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\themify-icons\\fonts\\themify.woff",
-      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\fonts\\themify.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\themify-icons\\fonts\\themify.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\themify-icons\\fonts\\themify9f249f24.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\fonts\\themify9f249f24.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\themify-icons\\fonts\\themify9f249f24.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\themify-icons\\fonts\\themify9f249f24.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\themify-icons\\fonts\\themify9f249f24.svg",
-      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\fonts\\themify9f249f24.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\themify-icons\\fonts\\themify9f249f24.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\themify-icons\\fonts\\themify9f249f24.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\themify-icons\\fonts\\themifyd41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\fonts\\themifyd41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\themify-icons\\fonts\\themifyd41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\themify-icons\\fonts\\themifyd41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\themify-icons\\themify-icons.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\themify-icons\\themify-icons.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\themify-icons\\themify-icons.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\weather-icons\\css\\weather-icons.min.css",
-      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\css\\weather-icons.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\weather-icons\\css\\weather-icons.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\weather-icons\\css\\weather-icons.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
-      "PackagePath": "staticwebassets\\assets\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\icons\\weather-icons\\fonts\\weathericons-regular-webfont.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\avatar\\1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\avatar\\1.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\avatar\\1.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\avatar\\11.png",
-      "PackagePath": "staticwebassets\\assets\\images\\avatar\\11.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\avatar\\11.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\avatar\\11.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\avatar\\2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\avatar\\2.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\avatar\\2.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\avatar\\3.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\avatar\\3.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\avatar\\3.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\avatar\\4.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\avatar\\4.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\avatar\\4.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\avatar\\5.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\avatar\\5.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\avatar\\5.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\avatar\\6.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\avatar\\6.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\avatar\\6.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\card-1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\card-1.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\card-1.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\card-1.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\card-2.png",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\card-2.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\card-2.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\card-2.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\card-3.png",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\card-3.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\card-3.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\card-3.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\card-4.png",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\card-4.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\card-4.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\card-4.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\img1.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\img1.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\img1.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\img1.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\img2.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\img2.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\img2.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\img2.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\img3.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\img3.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\img3.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\img3.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\img4.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\img4.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\img4.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\img4.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\img5.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\img5.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\img5.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\img5.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\big\\img6.jpg",
-      "PackagePath": "staticwebassets\\assets\\images\\big\\img6.jpg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\big\\img6.jpg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\big\\img6.jpg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\blog\\1.html",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\1.html"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\blog\\1.html",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\blog\\1.html"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\blog\\2.html",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\2.html"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\blog\\2.html",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\blog\\2.html"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\blog\\3.html",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\3.html"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\blog\\3.html",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\blog\\3.html"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\blog\\4.html",
-      "PackagePath": "staticwebassets\\assets\\images\\blog\\4.html"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\blog\\4.html",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\blog\\4.html"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\favicon.png",
-      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\favicon.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\logo-compact.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-compact.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\logo-compact.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\logo-compact.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\logo-text.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo-text.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\logo-text.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\logo-text.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\logo.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\logo.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\images\\user\\1.png",
-      "PackagePath": "staticwebassets\\assets\\images\\user\\1.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\images\\user\\1.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\images\\user\\1.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\custom.min.js",
-      "PackagePath": "staticwebassets\\assets\\js\\custom.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\custom.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\dashboard\\dashboard-1.js",
-      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dashboard-1.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\dashboard\\dashboard-1.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\dashboard\\dashboard-1.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\dashboard\\dashboard-2.js",
-      "PackagePath": "staticwebassets\\assets\\js\\dashboard\\dashboard-2.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\dashboard\\dashboard-2.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\dashboard\\dashboard-2.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\gleek.js",
-      "PackagePath": "staticwebassets\\assets\\js\\gleek.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\gleek.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\gleek.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\plugins-init\\chartist.init.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins-init\\chartist.init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\plugins-init\\chartist.init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\plugins-init\\chartist.init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\plugins-init\\chartjs-init.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins-init\\chartjs-init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\plugins-init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\plugins-init\\chartjs-init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\plugins-init\\form-pickers-init.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins-init\\form-pickers-init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\plugins-init\\form-pickers-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\plugins-init\\form-pickers-init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\plugins-init\\fullcalendar-init.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins-init\\fullcalendar-init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\plugins-init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\plugins-init\\fullcalendar-init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\plugins-init\\jquery-steps-init.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins-init\\jquery-steps-init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\plugins-init\\jquery-steps-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\plugins-init\\jquery-steps-init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\plugins-init\\morris-init.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins-init\\morris-init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\plugins-init\\morris-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\plugins-init\\morris-init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\plugins-init\\nouislider-init.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins-init\\nouislider-init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\plugins-init\\nouislider-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\plugins-init\\nouislider-init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\plugins-init\\peitychart.init.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins-init\\peitychart.init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\plugins-init\\peitychart.init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\plugins-init\\peitychart.init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\plugins-init\\sparkline.init.js",
-      "PackagePath": "staticwebassets\\assets\\js\\plugins-init\\sparkline.init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\plugins-init\\sparkline.init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\plugins-init\\sparkline.init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\settings.js",
-      "PackagePath": "staticwebassets\\assets\\js\\settings.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\settings.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\settings.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\js\\styleSwitcher.js",
-      "PackagePath": "staticwebassets\\assets\\js\\styleSwitcher.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\js\\styleSwitcher.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\js\\styleSwitcher.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\logo-text.webp",
-      "PackagePath": "staticwebassets\\assets\\logo-text.webp"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\logo-text.webp",
+      "PackagePath": "staticwebassets\\assetsAdmin\\logo-text.webp"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\animate\\animate.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\animate\\animate.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\animate\\animate.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\bootstrap-daterangepicker\\daterangepicker.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-daterangepicker\\daterangepicker.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\bootstrap-daterangepicker\\daterangepicker.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\bootstrap-select\\dist\\css\\bootstrap-select.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\chart.js\\Chart.bundle.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\chart.js\\Chart.bundle.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\chart.js\\Chart.bundle.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\chartist-plugin-tooltips\\css\\chartist-plugin-tooltip.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\chartist-plugin-tooltips\\css\\chartist-plugin-tooltip.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\chartist-plugin-tooltips\\css\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\chartist-plugin-tooltips\\css\\chartist-plugin-tooltip.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\chartist-plugin-tooltips\\js\\chartist-plugin-tooltip.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\chartist-plugin-tooltips\\js\\chartist-plugin-tooltip.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\chartist-plugin-tooltips\\js\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\chartist-plugin-tooltips\\js\\chartist-plugin-tooltip.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\chartist\\css\\chartist.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\chartist\\css\\chartist.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\chartist\\css\\chartist.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\chartist\\css\\chartist.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\chartist\\js\\chartist.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\chartist\\js\\chartist.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\chartist\\js\\chartist.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\chartist\\js\\chartist.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\circle-progress\\circle-progress.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\circle-progress\\circle-progress.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\circle-progress\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\circle-progress\\circle-progress.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\clockpicker\\dist\\jquery-clockpicker.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\common\\common.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\common\\common.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\common\\common.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\common\\common.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\flot\\js\\jquery.flot.init.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\flot\\js\\jquery.flot.init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\flot\\js\\jquery.flot.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\flot\\js\\jquery.flot.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\flot\\js\\jquery.flot.pie.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\flot\\js\\jquery.flot.pie.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.pie.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\flot\\js\\jquery.flot.resize.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\flot\\js\\jquery.flot.resize.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.resize.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\flot\\js\\jquery.flot.spline.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\flot\\js\\jquery.flot.spline.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.spline.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\flot\\js\\jquery.flot.spline.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\fullcalendar\\css\\fullcalendar.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\css\\fullcalendar.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\fullcalendar\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\fullcalendar\\css\\fullcalendar.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\fullcalendar\\js\\fullcalendar.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\fullcalendar\\js\\fullcalendar.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\fullcalendar\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\fullcalendar\\js\\fullcalendar.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-asColorPicker-master\\css\\asColorPicker.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-asColorPicker-master\\css\\asColorPicker.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\css\\asColorPicker.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\css\\asColorPicker.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-asColorPicker-master\\dist\\jquery-asColorPicker.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-asColorPicker-master\\dist\\jquery-asColorPicker.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\dist\\jquery-asColorPicker.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\dist\\jquery-asColorPicker.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-asColorPicker-master\\images\\alpha.png",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-asColorPicker-master\\images\\alpha.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\images\\alpha.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\images\\alpha.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-asColorPicker-master\\images\\hue.png",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-asColorPicker-master\\images\\hue.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\images\\hue.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\images\\hue.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-asColorPicker-master\\images\\saturation.png",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-asColorPicker-master\\images\\saturation.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\images\\saturation.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\images\\saturation.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-asColorPicker-master\\images\\transparent.png",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-asColorPicker-master\\images\\transparent.png"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\images\\transparent.png",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\images\\transparent.png"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asColor.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asColor.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asColor.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asColor.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asGradient.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asGradient.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asGradient.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-asColorPicker-master\\libs\\jquery-asGradient.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-sparkline\\jquery.sparkline.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-sparkline\\jquery.sparkline.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-sparkline\\jquery.sparkline.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-steps\\build\\jquery.steps.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-steps\\build\\jquery.steps.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-steps\\build\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-steps\\build\\jquery.steps.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-steps\\css\\jquery.steps.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-steps\\css\\jquery.steps.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-steps\\css\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-steps\\css\\jquery.steps.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jquery-validation\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-validation\\jquery.validate.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jquery-validation\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\jqueryui\\js\\jquery-ui.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\jqueryui\\js\\jquery-ui.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\jqueryui\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\jqueryui\\js\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\metismenu\\css\\metisMenu.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\metismenu\\css\\metisMenu.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\metismenu\\css\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\metismenu\\css\\metisMenu.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\moment\\moment.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\moment\\moment.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\moment\\moment.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\moment\\moment.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\moment\\moment.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\moment\\moment.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\morris\\morris.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\morris\\morris.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\morris\\morris.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\nestable\\css\\nestable.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\nestable\\css\\nestable.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\nestable\\css\\nestable.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\nestable\\css\\nestable.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\nestable\\js\\jquery.nestable.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\nestable\\js\\jquery.nestable.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\nestable\\js\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\nestable\\js\\jquery.nestable.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\nestable\\js\\nestable.init.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\nestable\\js\\nestable.init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\nestable\\js\\nestable.init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\nestable\\js\\nestable.init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\nouislider\\nouislider.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\nouislider\\nouislider.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\nouislider\\nouislider.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\nouislider\\nouislider.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\nouislider\\nouislider.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\nouislider\\nouislider.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\peity\\jquery.peity.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\peity\\jquery.peity.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\peity\\jquery.peity.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\pg-calendar\\css\\pignose.calendar.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\pg-calendar\\css\\pignose.calendar.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\pg-calendar\\css\\pignose.calendar.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\pg-calendar\\css\\pignose.calendar.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.eot",
-      "PackagePath": "staticwebassets\\assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.svg",
-      "PackagePath": "staticwebassets\\assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.svg"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.svg",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.svg"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.ttf",
-      "PackagePath": "staticwebassets\\assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.woff",
-      "PackagePath": "staticwebassets\\assets\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\pg-calendar\\fonts\\pignose.calendarab26.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\raphael\\raphael.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\raphael\\raphael.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\raphael\\raphael.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernoted41dd41d.eot",
-      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernoted41dd41d.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\summernote\\dist\\font\\summernoted41dd41d.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\summernote\\dist\\font\\summernoted41dd41d.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernotef534f534.eot",
-      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernotef534f534.eot"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\summernote\\dist\\font\\summernotef534f534.eot",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\summernote\\dist\\font\\summernotef534f534.eot"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernotef534f534.ttf",
-      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernotef534f534.ttf"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\summernote\\dist\\font\\summernotef534f534.ttf",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\summernote\\dist\\font\\summernotef534f534.ttf"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\summernote\\dist\\font\\summernotef534f534.woff",
-      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\font\\summernotef534f534.woff"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\summernote\\dist\\font\\summernotef534f534.woff",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\summernote\\dist\\font\\summernotef534f534.woff"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\summernote\\dist\\summernote-init.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\summernote-init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\summernote\\dist\\summernote-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\summernote\\dist\\summernote-init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\summernote\\dist\\summernote.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\summernote.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\summernote\\dist\\summernote.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\summernote\\dist\\summernote.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\summernote\\dist\\summernote.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\summernote\\dist\\summernote.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\summernote\\dist\\summernote.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\summernote\\dist\\summernote.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\sweetalert\\css\\sweetalert.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\sweetalert\\css\\sweetalert.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\sweetalert\\css\\sweetalert.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\sweetalert\\css\\sweetalert.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\sweetalert\\js\\sweetalert.init.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\sweetalert\\js\\sweetalert.init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\sweetalert\\js\\sweetalert.init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\sweetalert\\js\\sweetalert.init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\sweetalert\\js\\sweetalert.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\sweetalert\\js\\sweetalert.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\sweetalert\\js\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\sweetalert\\js\\sweetalert.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\tables\\css\\datatable\\dataTables.bootstrap4.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\tables\\css\\datatable\\dataTables.bootstrap4.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\tables\\css\\datatable\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\tables\\css\\datatable\\dataTables.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\tables\\js\\datatable-init\\datatable-basic.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\tables\\js\\datatable-init\\datatable-basic.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\tables\\js\\datatable-init\\datatable-basic.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\tables\\js\\datatable-init\\datatable-basic.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\tables\\js\\datatable\\dataTables.bootstrap4.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\tables\\js\\datatable\\dataTables.bootstrap4.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\tables\\js\\datatable\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\tables\\js\\datatable\\dataTables.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\tables\\js\\jquery.dataTables.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\tables\\js\\jquery.dataTables.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\tables\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\tables\\js\\jquery.dataTables.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\timepicker\\bootstrap-timepicker.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\timepicker\\bootstrap-timepicker.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\timepicker\\bootstrap-timepicker.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\timepicker\\bootstrap-timepicker.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\timepicker\\bootstrap-timepicker.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\timepicker\\bootstrap-timepicker.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\toastr\\css\\toastr.min.css",
-      "PackagePath": "staticwebassets\\assets\\plugins\\toastr\\css\\toastr.min.css"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\toastr\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\toastr\\css\\toastr.min.css"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\toastr\\js\\toastr.init.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\toastr\\js\\toastr.init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\toastr\\js\\toastr.init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\toastr\\js\\toastr.init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\toastr\\js\\toastr.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\toastr\\js\\toastr.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\toastr\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\toastr\\js\\toastr.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\validation\\jquery.validate-init.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\validation\\jquery.validate-init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\validation\\jquery.validate-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\validation\\jquery.validate-init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\validation\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\validation\\jquery.validate.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\validation\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\weather\\js\\jquery.simpleWeather.min.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\weather\\js\\jquery.simpleWeather.min.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\weather\\js\\jquery.simpleWeather.min.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\weather\\js\\jquery.simpleWeather.min.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\weather\\js\\weather-init.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\weather\\js\\weather-init.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\weather\\js\\weather-init.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\weather\\js\\weather-init.js"
     },
     {
-      "Id": "C:\\laragon\\www\\G3\\CarInsuranceManage\\wwwroot\\assets\\plugins\\wnumb\\wNumb.js",
-      "PackagePath": "staticwebassets\\assets\\plugins\\wnumb\\wNumb.js"
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\assetsAdmin\\plugins\\wnumb\\wNumb.js",
+      "PackagePath": "staticwebassets\\assetsAdmin\\plugins\\wnumb\\wNumb.js"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CarInsuranceManage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

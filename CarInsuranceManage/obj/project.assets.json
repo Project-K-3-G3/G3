@@ -3117,11 +3117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\laragon\\www\\G3\\CarInsuranceManage\\CarInsuranceManage.csproj",
+      "projectUniqueName": "D:\\G3\\CarInsuranceManage\\CarInsuranceManage.csproj",
       "projectName": "CarInsuranceManage",
-      "projectPath": "C:\\laragon\\www\\G3\\CarInsuranceManage\\CarInsuranceManage.csproj",
+      "projectPath": "D:\\G3\\CarInsuranceManage\\CarInsuranceManage.csproj",
       "packagesPath": "C:\\Users\\bahat\\.nuget\\packages\\",
-      "outputPath": "C:\\laragon\\www\\G3\\CarInsuranceManage\\obj\\",
+      "outputPath": "D:\\G3\\CarInsuranceManage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
