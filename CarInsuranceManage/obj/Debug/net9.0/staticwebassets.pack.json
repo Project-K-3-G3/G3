@@ -629,6 +629,14 @@
       "PackagePath": "staticwebassets\\css\\color-switcher-design.css"
     },
     {
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\css\\coloring.css",
+      "PackagePath": "staticwebassets\\css\\coloring.css"
+    },
+    {
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\css\\colors\\scheme-01.css",
+      "PackagePath": "staticwebassets\\css\\colors\\scheme-01.css"
+    },
+    {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\css\\custom-animate.css",
       "PackagePath": "staticwebassets\\css\\custom-animate.css"
     },
@@ -657,6 +665,10 @@
       "PackagePath": "staticwebassets\\css\\jquery-ui.css"
     },
     {
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\css\\jquery.countdown.css",
+      "PackagePath": "staticwebassets\\css\\jquery.countdown.css"
+    },
+    {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\css\\jquery.fancybox.min.css",
       "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
     },
@@ -671,6 +683,10 @@
     {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\css\\owl.css",
       "PackagePath": "staticwebassets\\css\\owl.css"
+    },
+    {
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
     },
     {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\css\\patterns\\1.png",
@@ -1201,6 +1217,10 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\css\\styleprofile.css",
+      "PackagePath": "staticwebassets\\css\\styleprofile.css"
+    },
+    {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\email_templates\\action.html",
       "PackagePath": "staticwebassets\\email_templates\\action.html"
     },
@@ -1369,116 +1389,96 @@
       "PackagePath": "staticwebassets\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-brands-400.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.eot"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-brands-400.svg",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.svg"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-brands-400.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-brands-400.woff",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIcons.woff"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-brands-400.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIconsd41d.eot",
+      "PackagePath": "staticwebassets\\font\\elegant_font\\HTML_CSS\\fonts\\ElegantIconsd41d.eot"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-brands-400d41d.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\elegant_font\\HTML_CSS\\style.css",
+      "PackagePath": "staticwebassets\\font\\elegant_font\\HTML_CSS\\style.css"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-regular-400.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\et-line-font\\fonts\\et-line.eot",
+      "PackagePath": "staticwebassets\\font\\et-line-font\\fonts\\et-line.eot"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-regular-400.svg",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\et-line-font\\fonts\\et-line.svg",
+      "PackagePath": "staticwebassets\\font\\et-line-font\\fonts\\et-line.svg"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-regular-400.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\et-line-font\\fonts\\et-line.ttf",
+      "PackagePath": "staticwebassets\\font\\et-line-font\\fonts\\et-line.ttf"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-regular-400.woff",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\et-line-font\\fonts\\et-line.woff",
+      "PackagePath": "staticwebassets\\font\\et-line-font\\fonts\\et-line.woff"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-regular-400.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\et-line-font\\fonts\\et-lined41d.eot",
+      "PackagePath": "staticwebassets\\font\\et-line-font\\fonts\\et-lined41d.eot"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-regular-400d41d.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\et-line-font\\style.css",
+      "PackagePath": "staticwebassets\\font\\et-line-font\\style.css"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-solid-900.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\font\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-solid-900.svg",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-solid-900.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-solid-900.woff",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-solid-900.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\fa-solid-900d41d.eot",
-      "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\font\\font-awesome\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\flaticon.eot",
-      "PackagePath": "staticwebassets\\fonts\\flaticon.eot"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\font\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\flaticon.svg",
-      "PackagePath": "staticwebassets\\fonts\\flaticon.svg"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\icofont\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\font\\icofont\\fonts\\icofont.woff"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\flaticon.ttf",
-      "PackagePath": "staticwebassets\\fonts\\flaticon.ttf"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\icofont\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\font\\icofont\\fonts\\icofont.woff2"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\flaticon.woff",
-      "PackagePath": "staticwebassets\\fonts\\flaticon.woff"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\font\\icofont\\icofont.min.css",
+      "PackagePath": "staticwebassets\\font\\icofont\\icofont.min.css"
     },
     {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\flaticond41d.eot",
-      "PackagePath": "staticwebassets\\fonts\\flaticond41d.eot"
-    },
-    {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
-      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
-    },
-    {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
-      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
-    },
-    {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
-      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
-    },
-    {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
-      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
-    },
-    {
-      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
-      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\images\\background\\1.jpg",
@@ -1655,6 +1655,10 @@
     {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\images\\icons\\slider-arrow.png",
       "PackagePath": "staticwebassets\\images\\icons\\slider-arrow.png"
+    },
+    {
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\images\\idolhoi.jpg",
+      "PackagePath": "staticwebassets\\images\\idolhoi.jpg"
     },
     {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\images\\logo-small.png",
@@ -5325,6 +5329,10 @@
       "PackagePath": "staticwebassets\\js\\demo\\sparkline-demo.js"
     },
     {
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\js\\designesia.js",
+      "PackagePath": "staticwebassets\\js\\designesia.js"
+    },
+    {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\js\\inspinia.js",
       "PackagePath": "staticwebassets\\js\\inspinia.js"
     },
@@ -5371,6 +5379,10 @@
     {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\js\\parallax.min.js",
       "PackagePath": "staticwebassets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
       "Id": "D:\\FPT APTECH\\eProject3\\project3\\CarInsuranceManage\\wwwroot\\js\\plugins\\blueimp\\jquery.blueimp-gallery.min.js",

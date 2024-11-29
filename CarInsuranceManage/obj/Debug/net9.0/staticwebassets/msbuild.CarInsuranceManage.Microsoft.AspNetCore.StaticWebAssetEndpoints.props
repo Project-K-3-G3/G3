@@ -1848,11 +1848,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o3yzcp43z9"},{"Name":"integrity","Value":"sha256-nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY="},{"Name":"label","Value":"_content/CarInsuranceManage/css/bootstrap.css.map"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"389287"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/bootstrap.min.8hd1yg80rk.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8hd1yg80rk"},{"Name":"integrity","Value":"sha256-hOPJZIB\u002BvMn35j5YHHLWJuN5T0kS2KII21w\u002Bw94cQRk="},{"Name":"label","Value":"_content/CarInsuranceManage/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"155877"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022hOPJZIB\u002BvMn35j5YHHLWJuN5T0kS2KII21w\u002Bw94cQRk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 15:03:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/bootstrap.min.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"121205"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:49 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hOPJZIB\u002BvMn35j5YHHLWJuN5T0kS2KII21w\u002Bw94cQRk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"155877"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022hOPJZIB\u002BvMn35j5YHHLWJuN5T0kS2KII21w\u002Bw94cQRk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 15:03:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/bootstrap.min.css.map">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css.map'))</AssetFile>
@@ -1866,12 +1872,6 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wrmkol24q7"},{"Name":"integrity","Value":"sha256-tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30="},{"Name":"label","Value":"_content/CarInsuranceManage/css/bootstrap.min.css.map"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"542194"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/bootstrap.min.ufik3s9dum.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ufik3s9dum"},{"Name":"integrity","Value":"sha256-Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo="},{"Name":"label","Value":"_content/CarInsuranceManage/css/bootstrap.min.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"121205"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:49 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/color-switcher-design.01eknk64ft.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\color-switcher-design.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1883,6 +1883,30 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/NQ4GNXO\u002BP/L4HwwfsFEkCEiKM/Y9IFL\u002BtFhSAi90Q4="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4800"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/NQ4GNXO\u002BP/L4HwwfsFEkCEiKM/Y9IFL\u002BtFhSAi90Q4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/coloring.b6u9let3sx.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\coloring.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b6u9let3sx"},{"Name":"integrity","Value":"sha256-/UHK6Uo9ZcmHZ2RI4XgVjWt69b1qCOqyS3T0oivQfJM="},{"Name":"label","Value":"_content/CarInsuranceManage/css/coloring.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/UHK6Uo9ZcmHZ2RI4XgVjWt69b1qCOqyS3T0oivQfJM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 15:03:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/coloring.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\coloring.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/UHK6Uo9ZcmHZ2RI4XgVjWt69b1qCOqyS3T0oivQfJM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/UHK6Uo9ZcmHZ2RI4XgVjWt69b1qCOqyS3T0oivQfJM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 15:03:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/colors/scheme-01.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\colors\scheme-01.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-44Q3pfrz3HgPHzLXXasquCpYJhiM3tyW9pT\u002BOQU4rsY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002244Q3pfrz3HgPHzLXXasquCpYJhiM3tyW9pT\u002BOQU4rsY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 14:42:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/colors/scheme-01.nnlx94y5rv.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\colors\scheme-01.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nnlx94y5rv"},{"Name":"integrity","Value":"sha256-44Q3pfrz3HgPHzLXXasquCpYJhiM3tyW9pT\u002BOQU4rsY="},{"Name":"label","Value":"_content/CarInsuranceManage/css/colors/scheme-01.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"143"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002244Q3pfrz3HgPHzLXXasquCpYJhiM3tyW9pT\u002BOQU4rsY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 14:42:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/custom-animate.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\custom-animate.css'))</AssetFile>
@@ -1968,6 +1992,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tq3cb7bywb"},{"Name":"integrity","Value":"sha256-9TTz6k\u002B3duBt7W5gB4gBnRx7ZEkRMis3Gyocxt0wtAQ="},{"Name":"label","Value":"_content/CarInsuranceManage/css/jquery-ui.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38367"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00229TTz6k\u002B3duBt7W5gB4gBnRx7ZEkRMis3Gyocxt0wtAQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:49 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/jquery.countdown.66z4kajuoe.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\jquery.countdown.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"66z4kajuoe"},{"Name":"integrity","Value":"sha256-8sg3l6LcDnidTpKprEbPbTNSb3ODhnKYHFhWBerDdlM="},{"Name":"label","Value":"_content/CarInsuranceManage/css/jquery.countdown.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228sg3l6LcDnidTpKprEbPbTNSb3ODhnKYHFhWBerDdlM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 15:03:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/jquery.countdown.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\jquery.countdown.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8sg3l6LcDnidTpKprEbPbTNSb3ODhnKYHFhWBerDdlM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228sg3l6LcDnidTpKprEbPbTNSb3ODhnKYHFhWBerDdlM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 15:03:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/jquery.fancybox.min.8jb6o401fp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\jquery.fancybox.min.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -2009,6 +2045,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-m/PgDMSsFpsZk6zfwmAjeOQF\u002BfZd53ERj40iNLmlGdk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20545"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022m/PgDMSsFpsZk6zfwmAjeOQF\u002BfZd53ERj40iNLmlGdk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/owl.video.play.ckr7ohxaf5.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\owl.video.play.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ckr7ohxaf5"},{"Name":"integrity","Value":"sha256-TBPUUt1dSWcb2TyjLytPhceOObarCtHzjZjtJn\u002BP2JY="},{"Name":"label","Value":"_content/CarInsuranceManage/css/owl.video.play.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1251"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022TBPUUt1dSWcb2TyjLytPhceOObarCtHzjZjtJn\u002BP2JY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 11:45:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/owl.video.play.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\owl.video.play.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TBPUUt1dSWcb2TyjLytPhceOObarCtHzjZjtJn\u002BP2JY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1251"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022TBPUUt1dSWcb2TyjLytPhceOObarCtHzjZjtJn\u002BP2JY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 11:45:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/owl.vj9hd3tbab.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\owl.css'))</AssetFile>
@@ -3600,6 +3648,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dsdog48jfg"},{"Name":"integrity","Value":"sha256-zTt8u9HSm7U5pPIOJkJrvok4FI5s60Bdm2sRl9kjeLs="},{"Name":"label","Value":"_content/CarInsuranceManage/css/style.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"188085"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022zTt8u9HSm7U5pPIOJkJrvok4FI5s60Bdm2sRl9kjeLs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/styleprofile.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styleprofile.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h65rh5iQfIqNpn14Gc1IRHAAVGhIa9EnIMUhkA2TAPs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"323517"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022h65rh5iQfIqNpn14Gc1IRHAAVGhIa9EnIMUhkA2TAPs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 15:02:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/css/styleprofile.tfwpl7bmyf.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styleprofile.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tfwpl7bmyf"},{"Name":"integrity","Value":"sha256-h65rh5iQfIqNpn14Gc1IRHAAVGhIa9EnIMUhkA2TAPs="},{"Name":"label","Value":"_content/CarInsuranceManage/css/styleprofile.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"323517"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022h65rh5iQfIqNpn14Gc1IRHAAVGhIa9EnIMUhkA2TAPs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 15:02:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/email_templates/action.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\email_templates\action.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -4104,341 +4164,281 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z3bc1uracj"},{"Name":"integrity","Value":"sha256-P8x\u002BjHFxW4Rkpzat2YpNeb79I6UG4BB1WSh5Ll4HH8A="},{"Name":"label","Value":"_content/CarInsuranceManage/font-awesome/scss/_variables.scss"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23444"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022P8x\u002BjHFxW4Rkpzat2YpNeb79I6UG4BB1WSh5Ll4HH8A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.1c2cmve962.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.svg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.a19wnf102w.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.woff'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1c2cmve962"},{"Name":"integrity","Value":"sha256-0WgXIGDHzvMXyLqh1el/EMLqc87l7NaGIRu\u002BRLicZ2M="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-brands-400.svg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"751262"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u00220WgXIGDHzvMXyLqh1el/EMLqc87l7NaGIRu\u002BRLicZ2M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a19wnf102w"},{"Name":"integrity","Value":"sha256-vhgl5SoNx98E35Mi9iq\u002BKi8qJdmKrBht4BQN/H9r3K4="},{"Name":"label","Value":"_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"63664"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022vhgl5SoNx98E35Mi9iq\u002BKi8qJdmKrBht4BQN/H9r3K4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.8ydk4ssyn7.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.woff'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.b1kgfjbnt8.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8ydk4ssyn7"},{"Name":"integrity","Value":"sha256-oDdcBUoAQb1Y4qC/f6PffDkEv8T3kP0k4y/z7nD9Du8="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-brands-400.woff"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92136"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022oDdcBUoAQb1Y4qC/f6PffDkEv8T3kP0k4y/z7nD9Du8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b1kgfjbnt8"},{"Name":"integrity","Value":"sha256-kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o="},{"Name":"label","Value":"_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"59572"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"136822"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"59572"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.svg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.nxc4ndomdq.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.ttf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0WgXIGDHzvMXyLqh1el/EMLqc87l7NaGIRu\u002BRLicZ2M="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"751262"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u00220WgXIGDHzvMXyLqh1el/EMLqc87l7NaGIRu\u002BRLicZ2M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nxc4ndomdq"},{"Name":"integrity","Value":"sha256-e\u002BVS/MNYZcBFz6/eFeeTnFV8uIgBoav0YaT\u002BvG1V/qA="},{"Name":"label","Value":"_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"59388"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022e\u002BVS/MNYZcBFz6/eFeeTnFV8uIgBoav0YaT\u002BvG1V/qA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.ttf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.r9dtzxkrgl.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.svg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QE1ggxk\u002BVpvFwox7G8DhPs6AxuD1pQrY6WM/SPPAkVU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"136516"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022QE1ggxk\u002BVpvFwox7G8DhPs6AxuD1pQrY6WM/SPPAkVU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r9dtzxkrgl"},{"Name":"integrity","Value":"sha256-kfBooGp41ezeoFcaO1b1HXI84a2/W6ZCg\u002BzBgFsE5gs="},{"Name":"label","Value":"_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"277297"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022kfBooGp41ezeoFcaO1b1HXI84a2/W6ZCg\u002BzBgFsE5gs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.v811knsmg3.woff2">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.woff2'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.svg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v811knsmg3"},{"Name":"integrity","Value":"sha256-cbPOcmgPQYPSjbhrGEVCBR/VM7sRRpMyM\u002BT2ogz5jLo="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-brands-400.woff2"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"78460"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022cbPOcmgPQYPSjbhrGEVCBR/VM7sRRpMyM\u002BT2ogz5jLo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kfBooGp41ezeoFcaO1b1HXI84a2/W6ZCg\u002BzBgFsE5gs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"277297"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022kfBooGp41ezeoFcaO1b1HXI84a2/W6ZCg\u002BzBgFsE5gs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.wcbt48fpxi.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.ttf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.ttf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wcbt48fpxi"},{"Name":"integrity","Value":"sha256-QE1ggxk\u002BVpvFwox7G8DhPs6AxuD1pQrY6WM/SPPAkVU="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-brands-400.ttf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"136516"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022QE1ggxk\u002BVpvFwox7G8DhPs6AxuD1pQrY6WM/SPPAkVU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e\u002BVS/MNYZcBFz6/eFeeTnFV8uIgBoav0YaT\u002BvG1V/qA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"59388"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022e\u002BVS/MNYZcBFz6/eFeeTnFV8uIgBoav0YaT\u002BvG1V/qA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.woff'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIcons.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.woff'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oDdcBUoAQb1Y4qC/f6PffDkEv8T3kP0k4y/z7nD9Du8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"92136"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022oDdcBUoAQb1Y4qC/f6PffDkEv8T3kP0k4y/z7nD9Du8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vhgl5SoNx98E35Mi9iq\u002BKi8qJdmKrBht4BQN/H9r3K4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"63664"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022vhgl5SoNx98E35Mi9iq\u002BKi8qJdmKrBht4BQN/H9r3K4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.woff2">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.woff2'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIconsd41d.b1kgfjbnt8.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIconsd41d.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cbPOcmgPQYPSjbhrGEVCBR/VM7sRRpMyM\u002BT2ogz5jLo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"78460"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022cbPOcmgPQYPSjbhrGEVCBR/VM7sRRpMyM\u002BT2ogz5jLo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b1kgfjbnt8"},{"Name":"integrity","Value":"sha256-kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o="},{"Name":"label","Value":"_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIconsd41d.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"59572"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400.z7w6znbiqe.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/fonts/ElegantIconsd41d.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIconsd41d.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z7w6znbiqe"},{"Name":"integrity","Value":"sha256-YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-brands-400.eot"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"136822"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"59572"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400d41d.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400d41d.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"136822"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-98wYEPa0joGsMuvhgNb1EWaNGNSsL2aMuM2X8Jpip/M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"25241"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002298wYEPa0joGsMuvhgNb1EWaNGNSsL2aMuM2X8Jpip/M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-brands-400d41d.z7w6znbiqe.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400d41d.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/elegant_font/HTML_CSS/style.ldqmk4q5dc.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z7w6znbiqe"},{"Name":"integrity","Value":"sha256-YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-brands-400d41d.eot"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"136822"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ldqmk4q5dc"},{"Name":"integrity","Value":"sha256-98wYEPa0joGsMuvhgNb1EWaNGNSsL2aMuM2X8Jpip/M="},{"Name":"label","Value":"_content/CarInsuranceManage/font/elegant_font/HTML_CSS/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25241"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002298wYEPa0joGsMuvhgNb1EWaNGNSsL2aMuM2X8Jpip/M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.51b8lhg7lf.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.svg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-line.0e1faxxpn0.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.ttf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"51b8lhg7lf"},{"Name":"integrity","Value":"sha256-Jz0l4\u002B4cLN\u002B2xFia\u002BjqOIEFnjvWDJAWIZOxsNiUFa0M="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-regular-400.svg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"145515"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022Jz0l4\u002B4cLN\u002B2xFia\u002BjqOIEFnjvWDJAWIZOxsNiUFa0M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0e1faxxpn0"},{"Name":"integrity","Value":"sha256-yHI2tXg/T75YLiEid1qL7FJWSFAGCuFyUNekJl2NQqM="},{"Name":"label","Value":"_content/CarInsuranceManage/font/et-line-font/fonts/et-line.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32536"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022yHI2tXg/T75YLiEid1qL7FJWSFAGCuFyUNekJl2NQqM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.6r2d8ysko6.woff2">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.woff2'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-line.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6r2d8ysko6"},{"Name":"integrity","Value":"sha256-ziDtijIxF8inGP8d3G2ruZc3O1dajolvK/ArhGwILJ0="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-regular-400.woff2"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13548"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022ziDtijIxF8inGP8d3G2ruZc3O1dajolvK/ArhGwILJ0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"32694"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.bv65wiaad7.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-line.jzchy2hkkp.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bv65wiaad7"},{"Name":"integrity","Value":"sha256-\u002BYU60zfVI8CzX\u002BesMGJopwNc4P92JHEO2LOcK4iyCjM="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-regular-400.eot"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34350"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022\u002BYU60zfVI8CzX\u002BesMGJopwNc4P92JHEO2LOcK4iyCjM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jzchy2hkkp"},{"Name":"integrity","Value":"sha256-/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc="},{"Name":"label","Value":"_content/CarInsuranceManage/font/et-line-font/fonts/et-line.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32694"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-line.rowj6o7vs2.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.svg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BYU60zfVI8CzX\u002BesMGJopwNc4P92JHEO2LOcK4iyCjM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"34350"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022\u002BYU60zfVI8CzX\u002BesMGJopwNc4P92JHEO2LOcK4iyCjM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rowj6o7vs2"},{"Name":"integrity","Value":"sha256-xX2BNOk479DNAz/LDaLJLgQTFT3ZBUBrmU\u002B67t2872A="},{"Name":"label","Value":"_content/CarInsuranceManage/font/et-line-font/fonts/et-line.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"175539"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022xX2BNOk479DNAz/LDaLJLgQTFT3ZBUBrmU\u002B67t2872A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.nseiyvca0a.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.woff'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-line.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.svg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nseiyvca0a"},{"Name":"integrity","Value":"sha256-Z5nJmeQicQ9A9wpgphOPw4EGImxE170bECP1u2W\u002B/vk="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-regular-400.woff"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16772"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022Z5nJmeQicQ9A9wpgphOPw4EGImxE170bECP1u2W\u002B/vk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xX2BNOk479DNAz/LDaLJLgQTFT3ZBUBrmU\u002B67t2872A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"175539"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022xX2BNOk479DNAz/LDaLJLgQTFT3ZBUBrmU\u002B67t2872A=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.svg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-line.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.ttf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jz0l4\u002B4cLN\u002B2xFia\u002BjqOIEFnjvWDJAWIZOxsNiUFa0M="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"145515"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022Jz0l4\u002B4cLN\u002B2xFia\u002BjqOIEFnjvWDJAWIZOxsNiUFa0M=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yHI2tXg/T75YLiEid1qL7FJWSFAGCuFyUNekJl2NQqM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"32536"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022yHI2tXg/T75YLiEid1qL7FJWSFAGCuFyUNekJl2NQqM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.ttf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-line.vepl6tix8c.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.woff'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XoEfCzLUiLmhg7d8/HrB70Sz6nqu0BToOXXf5ZfSIfY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"34052"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022XoEfCzLUiLmhg7d8/HrB70Sz6nqu0BToOXXf5ZfSIfY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vepl6tix8c"},{"Name":"integrity","Value":"sha256-GdL0PVRq2nPdCD93eKpKXKwajno69W78yuWA/OB6Xhw="},{"Name":"label","Value":"_content/CarInsuranceManage/font/et-line-font/fonts/et-line.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55220"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022GdL0PVRq2nPdCD93eKpKXKwajno69W78yuWA/OB6Xhw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.u5l2ncczie.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.ttf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-line.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.woff'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u5l2ncczie"},{"Name":"integrity","Value":"sha256-XoEfCzLUiLmhg7d8/HrB70Sz6nqu0BToOXXf5ZfSIfY="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-regular-400.ttf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34052"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022XoEfCzLUiLmhg7d8/HrB70Sz6nqu0BToOXXf5ZfSIfY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GdL0PVRq2nPdCD93eKpKXKwajno69W78yuWA/OB6Xhw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"55220"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022GdL0PVRq2nPdCD93eKpKXKwajno69W78yuWA/OB6Xhw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.woff'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-lined41d.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-lined41d.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z5nJmeQicQ9A9wpgphOPw4EGImxE170bECP1u2W\u002B/vk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"16772"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022Z5nJmeQicQ9A9wpgphOPw4EGImxE170bECP1u2W\u002B/vk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"32694"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400.woff2">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.woff2'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/fonts/et-lined41d.jzchy2hkkp.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-lined41d.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ziDtijIxF8inGP8d3G2ruZc3O1dajolvK/ArhGwILJ0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13548"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022ziDtijIxF8inGP8d3G2ruZc3O1dajolvK/ArhGwILJ0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jzchy2hkkp"},{"Name":"integrity","Value":"sha256-/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc="},{"Name":"label","Value":"_content/CarInsuranceManage/font/et-line-font/fonts/et-lined41d.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32694"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400d41d.bv65wiaad7.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400d41d.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/style.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bv65wiaad7"},{"Name":"integrity","Value":"sha256-\u002BYU60zfVI8CzX\u002BesMGJopwNc4P92JHEO2LOcK4iyCjM="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-regular-400d41d.eot"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34350"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022\u002BYU60zfVI8CzX\u002BesMGJopwNc4P92JHEO2LOcK4iyCjM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GPb\u002BmbZBUG4l12JoEC1nO0mcJ1I\u002BoXhpRV\u002BkI8ahMX8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7056"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GPb\u002BmbZBUG4l12JoEC1nO0mcJ1I\u002BoXhpRV\u002BkI8ahMX8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-regular-400d41d.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400d41d.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/et-line-font/style.watjrgm1dj.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\style.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BYU60zfVI8CzX\u002BesMGJopwNc4P92JHEO2LOcK4iyCjM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"34350"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022\u002BYU60zfVI8CzX\u002BesMGJopwNc4P92JHEO2LOcK4iyCjM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"watjrgm1dj"},{"Name":"integrity","Value":"sha256-GPb\u002BmbZBUG4l12JoEC1nO0mcJ1I\u002BoXhpRV\u002BkI8ahMX8="},{"Name":"label","Value":"_content/CarInsuranceManage/font/et-line-font/style.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7056"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GPb\u002BmbZBUG4l12JoEC1nO0mcJ1I\u002BoXhpRV\u002BkI8ahMX8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.32yozghl5z.woff2">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.woff2'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/css/font-awesome.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\css\font-awesome.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"32yozghl5z"},{"Name":"integrity","Value":"sha256-a1VZIONY\u002BKJaQimItEhhXDO8zLT5MugzHOv8jipzf8c="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-solid-900.woff2"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80300"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022a1VZIONY\u002BKJaQimItEhhXDO8zLT5MugzHOv8jipzf8c=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uttM/NIA02dbs/nP1B\u002BLooXxsIClKpBd42JWAAJ25V4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"37439"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022uttM/NIA02dbs/nP1B\u002BLooXxsIClKpBd42JWAAJ25V4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.4ascr2x969.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.ttf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/css/font-awesome.mtdjrxbtpo.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\css\font-awesome.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4ascr2x969"},{"Name":"integrity","Value":"sha256-LK3tJCwEE5dhdC/gzaf2WS3xtmhoV1MsinwuJTa5duQ="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-solid-900.ttf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"204528"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022LK3tJCwEE5dhdC/gzaf2WS3xtmhoV1MsinwuJTa5duQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mtdjrxbtpo"},{"Name":"integrity","Value":"sha256-uttM/NIA02dbs/nP1B\u002BLooXxsIClKpBd42JWAAJ25V4="},{"Name":"label","Value":"_content/CarInsuranceManage/font/font-awesome/css/font-awesome.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37439"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022uttM/NIA02dbs/nP1B\u002BLooXxsIClKpBd42JWAAJ25V4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.clmy5u2z4q.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.2hr3gl3r5x.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.woff2'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"clmy5u2z4q"},{"Name":"integrity","Value":"sha256-4OPEryg0jXIfivYDWVwV0nOlbysDOS\u002BaQTJV/lY19TY="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-solid-900.eot"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"204814"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u00224OPEryg0jXIfivYDWVwV0nOlbysDOS\u002BaQTJV/lY19TY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2hr3gl3r5x"},{"Name":"integrity","Value":"sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="},{"Name":"label","Value":"_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"77160"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.dosqy3kf6t.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.svg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4OPEryg0jXIfivYDWVwV0nOlbysDOS\u002BaQTJV/lY19TY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"204814"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u00224OPEryg0jXIfivYDWVwV0nOlbysDOS\u002BaQTJV/lY19TY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dosqy3kf6t"},{"Name":"integrity","Value":"sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI\u002BQ="},{"Name":"label","Value":"_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"444379"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI\u002BQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.ftkrvrur3t.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.svg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ftkrvrur3t"},{"Name":"integrity","Value":"sha256-3fLGDDToGgOzjTyqtwXw2HxAMExDLNTtbqf8xHy2C8Q="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-solid-900.svg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"922603"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u00223fLGDDToGgOzjTyqtwXw2HxAMExDLNTtbqf8xHy2C8Q=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"165742"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.mx3fookxtw.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.woff'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.eyrbpue749.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.woff'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mx3fookxtw"},{"Name":"integrity","Value":"sha256-qrlxreFjOrg2IiB0zq4KrYoILZAJCPJ0kbIh1ug5mMo="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-solid-900.woff"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"104280"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022qrlxreFjOrg2IiB0zq4KrYoILZAJCPJ0kbIh1ug5mMo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eyrbpue749"},{"Name":"integrity","Value":"sha256-ugxZ3rVFD1y0Gz\u002BTYJ7i0NmVQVh33foiPoqKdTNHTwc="},{"Name":"label","Value":"_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"98024"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022ugxZ3rVFD1y0Gz\u002BTYJ7i0NmVQVh33foiPoqKdTNHTwc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.svg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.pz0qgnv39v.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3fLGDDToGgOzjTyqtwXw2HxAMExDLNTtbqf8xHy2C8Q="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"922603"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u00223fLGDDToGgOzjTyqtwXw2HxAMExDLNTtbqf8xHy2C8Q=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pz0qgnv39v"},{"Name":"integrity","Value":"sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="},{"Name":"label","Value":"_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165742"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.ttf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.svg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LK3tJCwEE5dhdC/gzaf2WS3xtmhoV1MsinwuJTa5duQ="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"204528"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022LK3tJCwEE5dhdC/gzaf2WS3xtmhoV1MsinwuJTa5duQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI\u002BQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"444379"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI\u002BQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.woff'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.ttf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qrlxreFjOrg2IiB0zq4KrYoILZAJCPJ0kbIh1ug5mMo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"104280"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022qrlxreFjOrg2IiB0zq4KrYoILZAJCPJ0kbIh1ug5mMo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"165548"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900.woff2">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.woff2'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.woff'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-a1VZIONY\u002BKJaQimItEhhXDO8zLT5MugzHOv8jipzf8c="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80300"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022a1VZIONY\u002BKJaQimItEhhXDO8zLT5MugzHOv8jipzf8c=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ugxZ3rVFD1y0Gz\u002BTYJ7i0NmVQVh33foiPoqKdTNHTwc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"98024"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022ugxZ3rVFD1y0Gz\u002BTYJ7i0NmVQVh33foiPoqKdTNHTwc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900d41d.clmy5u2z4q.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900d41d.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.woff2'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"clmy5u2z4q"},{"Name":"integrity","Value":"sha256-4OPEryg0jXIfivYDWVwV0nOlbysDOS\u002BaQTJV/lY19TY="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/fa-solid-900d41d.eot"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"204814"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u00224OPEryg0jXIfivYDWVwV0nOlbysDOS\u002BaQTJV/lY19TY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"77160"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/fa-solid-900d41d.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900d41d.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.yex6mt8az7.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.ttf'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4OPEryg0jXIfivYDWVwV0nOlbysDOS\u002BaQTJV/lY19TY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"204814"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u00224OPEryg0jXIfivYDWVwV0nOlbysDOS\u002BaQTJV/lY19TY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yex6mt8az7"},{"Name":"integrity","Value":"sha256-qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg="},{"Name":"label","Value":"_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfont3e6e.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165548"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticon.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfontd41d.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfontd41d.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CpKbd/lg4dfYXJfkucYn3mDQHz\u002BNoGRHQwcJn4/EJWA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"79400"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022CpKbd/lg4dfYXJfkucYn3mDQHz\u002BNoGRHQwcJn4/EJWA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"165742"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticon.m4x1ouwraw.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfontd41d.pz0qgnv39v.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfontd41d.eot'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m4x1ouwraw"},{"Name":"integrity","Value":"sha256-CpKbd/lg4dfYXJfkucYn3mDQHz\u002BNoGRHQwcJn4/EJWA="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/flaticon.eot"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79400"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022CpKbd/lg4dfYXJfkucYn3mDQHz\u002BNoGRHQwcJn4/EJWA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pz0qgnv39v"},{"Name":"integrity","Value":"sha256-e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk="},{"Name":"label","Value":"_content/CarInsuranceManage/font/font-awesome/fonts/fontawesome-webfontd41d.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165742"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:30 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticon.rjcwbf8bai.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.ttf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/icofont/fonts/icofont.bupiwmr2vo.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\fonts\icofont.woff'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rjcwbf8bai"},{"Name":"integrity","Value":"sha256-eTFI8Wz0QNunhdQowQcc7nS0ibFUq2o1Fp7EGtEPVqw="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/flaticon.ttf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79232"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022eTFI8Wz0QNunhdQowQcc7nS0ibFUq2o1Fp7EGtEPVqw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bupiwmr2vo"},{"Name":"integrity","Value":"sha256-U7u9pUgKAxpx/BaDUsGKgWVKMwx4eE6zA8Ueio3uZsQ="},{"Name":"label","Value":"_content/CarInsuranceManage/font/icofont/fonts/icofont.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"645604"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022U7u9pUgKAxpx/BaDUsGKgWVKMwx4eE6zA8Ueio3uZsQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticon.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.svg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/icofont/fonts/icofont.k2wu4kwykg.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\fonts\icofont.woff2'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RkR7UQP8WVc1YOhnf5pd5CuPF25OEEBVKyBpfXRxhGU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"856249"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022RkR7UQP8WVc1YOhnf5pd5CuPF25OEEBVKyBpfXRxhGU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k2wu4kwykg"},{"Name":"integrity","Value":"sha256-JC5UKHG9d8j/Y3VBjjSe9rOjKiCOFcoUQRZmQdISpqE="},{"Name":"label","Value":"_content/CarInsuranceManage/font/icofont/fonts/icofont.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"537868"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022JC5UKHG9d8j/Y3VBjjSe9rOjKiCOFcoUQRZmQdISpqE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticon.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.ttf'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/icofont/fonts/icofont.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\fonts\icofont.woff'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eTFI8Wz0QNunhdQowQcc7nS0ibFUq2o1Fp7EGtEPVqw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"79232"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022eTFI8Wz0QNunhdQowQcc7nS0ibFUq2o1Fp7EGtEPVqw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-U7u9pUgKAxpx/BaDUsGKgWVKMwx4eE6zA8Ueio3uZsQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"645604"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022U7u9pUgKAxpx/BaDUsGKgWVKMwx4eE6zA8Ueio3uZsQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticon.un74eiy7wc.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.woff'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/icofont/fonts/icofont.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\fonts\icofont.woff2'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"un74eiy7wc"},{"Name":"integrity","Value":"sha256-yjUNO7OCtggjEDEifHL5uWBsOqXopkZU7Yja\u002B2jmQq0="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/flaticon.woff"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44220"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022yjUNO7OCtggjEDEifHL5uWBsOqXopkZU7Yja\u002B2jmQq0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JC5UKHG9d8j/Y3VBjjSe9rOjKiCOFcoUQRZmQdISpqE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"537868"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022JC5UKHG9d8j/Y3VBjjSe9rOjKiCOFcoUQRZmQdISpqE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticon.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.woff'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/icofont/icofont.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\icofont.min.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yjUNO7OCtggjEDEifHL5uWBsOqXopkZU7Yja\u002B2jmQq0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"44220"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022yjUNO7OCtggjEDEifHL5uWBsOqXopkZU7Yja\u002B2jmQq0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xa2LOZthXs/I9jYowbrXHPEUdwAqUTkP0dzKHys0OB4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"92208"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xa2LOZthXs/I9jYowbrXHPEUdwAqUTkP0dzKHys0OB4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticon.yd9b0s9j38.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.svg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/font/icofont/icofont.min.nh4e8fyqvv.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\icofont.min.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yd9b0s9j38"},{"Name":"integrity","Value":"sha256-RkR7UQP8WVc1YOhnf5pd5CuPF25OEEBVKyBpfXRxhGU="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/flaticon.svg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"856249"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022RkR7UQP8WVc1YOhnf5pd5CuPF25OEEBVKyBpfXRxhGU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nh4e8fyqvv"},{"Name":"integrity","Value":"sha256-xa2LOZthXs/I9jYowbrXHPEUdwAqUTkP0dzKHys0OB4="},{"Name":"label","Value":"_content/CarInsuranceManage/font/icofont/icofont.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92208"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022xa2LOZthXs/I9jYowbrXHPEUdwAqUTkP0dzKHys0OB4=\u0022"},{"Name":"Last-Modified","Value":"Wed, 14 Jun 2023 05:00:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticond41d.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticond41d.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/images/1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CpKbd/lg4dfYXJfkucYn3mDQHz\u002BNoGRHQwcJn4/EJWA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"79400"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022CpKbd/lg4dfYXJfkucYn3mDQHz\u002BNoGRHQwcJn4/EJWA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w35DEGc7HhYhPBm84zRn/0aIwqg8SQZPvqHyadS3gfo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16952"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022w35DEGc7HhYhPBm84zRn/0aIwqg8SQZPvqHyadS3gfo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Oct 2023 12:25:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/flaticond41d.m4x1ouwraw.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticond41d.eot'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/images/1.r6dk7mwmwr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m4x1ouwraw"},{"Name":"integrity","Value":"sha256-CpKbd/lg4dfYXJfkucYn3mDQHz\u002BNoGRHQwcJn4/EJWA="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/flaticond41d.eot"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"79400"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022CpKbd/lg4dfYXJfkucYn3mDQHz\u002BNoGRHQwcJn4/EJWA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.eot'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20127"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.li0e4nnnks.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.ttf'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"li0e4nnnks"},{"Name":"integrity","Value":"sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.ttf"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45404"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u002245UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.qqew9mh6jt.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.woff'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qqew9mh6jt"},{"Name":"integrity","Value":"sha256-omOU9\u002B3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.woff"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23424"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022omOU9\u002B3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.r3m9qmfdw3.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.svg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r3m9qmfdw3"},{"Name":"integrity","Value":"sha256-2YXNoDTqtMnyQDl2\u002BNFx\u002B/bvxLWTEH2LFAHlttqkYpU="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.svg"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"109025"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u00222YXNoDTqtMnyQDl2\u002BNFx\u002B/bvxLWTEH2LFAHlttqkYpU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.svg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.svg'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2YXNoDTqtMnyQDl2\u002BNFx\u002B/bvxLWTEH2LFAHlttqkYpU="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"109025"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u00222YXNoDTqtMnyQDl2\u002BNFx\u002B/bvxLWTEH2LFAHlttqkYpU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.torz25362b.eot">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.eot'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"torz25362b"},{"Name":"integrity","Value":"sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.eot"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20127"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.ttf">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.ttf'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"45404"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u002245UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.woff">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.woff'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-omOU9\u002B3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23424"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022omOU9\u002B3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.woff2">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.woff2'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"18028"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.y3zdydnkm9.woff2">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.woff2'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y3zdydnkm9"},{"Name":"integrity","Value":"sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="},{"Name":"label","Value":"_content/CarInsuranceManage/fonts/glyphicons-halflings-regular.woff2"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18028"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r6dk7mwmwr"},{"Name":"integrity","Value":"sha256-w35DEGc7HhYhPBm84zRn/0aIwqg8SQZPvqHyadS3gfo="},{"Name":"label","Value":"_content/CarInsuranceManage/images/1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16952"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022w35DEGc7HhYhPBm84zRn/0aIwqg8SQZPvqHyadS3gfo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 06 Oct 2023 12:25:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/images/background/1.auyg2zl1vh.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\1.jpg'))</AssetFile>
@@ -4967,6 +4967,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qRHbGKzpLDzhfHYHIMeiBjHiTATJU83mdOHdvvmSLZI="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"598"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qRHbGKzpLDzhfHYHIMeiBjHiTATJU83mdOHdvvmSLZI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/images/idolhoi.8y5tb1p6q9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\idolhoi.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8y5tb1p6q9"},{"Name":"integrity","Value":"sha256-YGJl88tMbtwKwHwXYENlBPHgNdWc/rPy5E6b/GnHico="},{"Name":"label","Value":"_content/CarInsuranceManage/images/idolhoi.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"289790"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YGJl88tMbtwKwHwXYENlBPHgNdWc/rPy5E6b/GnHico=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 15:10:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/images/idolhoi.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\idolhoi.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YGJl88tMbtwKwHwXYENlBPHgNdWc/rPy5E6b/GnHico="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"289790"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022YGJl88tMbtwKwHwXYENlBPHgNdWc/rPy5E6b/GnHico=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 15:10:16 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/images/logo-small.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo-small.png'))</AssetFile>
@@ -15972,6 +15984,18 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-70vnaWebU/kjEMVorbBYby9wmfE9X7I619MCIt5yde0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1759"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u002270vnaWebU/kjEMVorbBYby9wmfE9X7I619MCIt5yde0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/js/designesia.dlkev40q8y.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\designesia.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dlkev40q8y"},{"Name":"integrity","Value":"sha256-PxG\u002B2B9U4j/uRjmzGo2fnGe2TL4WuknqO590uIue7LI="},{"Name":"label","Value":"_content/CarInsuranceManage/js/designesia.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"82041"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PxG\u002B2B9U4j/uRjmzGo2fnGe2TL4WuknqO590uIue7LI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 14:34:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/js/designesia.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\designesia.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PxG\u002B2B9U4j/uRjmzGo2fnGe2TL4WuknqO590uIue7LI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"82041"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PxG\u002B2B9U4j/uRjmzGo2fnGe2TL4WuknqO590uIue7LI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 14:34:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/js/inspinia.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\inspinia.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -16115,6 +16139,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8FTHf1t2QCRn0QYZb49\u002BIIX9Bb9ec5kg9h4nqORs4a8="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"17316"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00228FTHf1t2QCRn0QYZb49\u002BIIX9Bb9ec5kg9h4nqORs4a8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 09:15:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/js/plugins.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\plugins.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zQMpyG8AvUE7rRJ0Pqau4LVEjYJy5YdiSzAJW9ecpBE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"749998"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022zQMpyG8AvUE7rRJ0Pqau4LVEjYJy5YdiSzAJW9ecpBE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 14:34:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/js/plugins.lq9mpo9uil.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\plugins.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lq9mpo9uil"},{"Name":"integrity","Value":"sha256-zQMpyG8AvUE7rRJ0Pqau4LVEjYJy5YdiSzAJW9ecpBE="},{"Name":"label","Value":"_content/CarInsuranceManage/js/plugins.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"749998"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022zQMpyG8AvUE7rRJ0Pqau4LVEjYJy5YdiSzAJW9ecpBE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Mar 2024 14:34:22 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/js/plugins/blueimp/jquery.blueimp-gallery.min.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\plugins\blueimp\jquery.blueimp-gallery.min.js'))</AssetFile>

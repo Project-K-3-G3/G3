@@ -2784,8 +2784,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ufik3s9dum</Fingerprint>
-      <Integrity>Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=</Integrity>
+      <Fingerprint>8hd1yg80rk</Fingerprint>
+      <Integrity>hOPJZIB+vMn35j5YHHLWJuN5T0kS2KII21w+w94cQRk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</OriginalItemSpec>
@@ -2825,6 +2825,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\color-switcher-design.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\coloring.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>css/coloring.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>b6u9let3sx</Fingerprint>
+      <Integrity>/UHK6Uo9ZcmHZ2RI4XgVjWt69b1qCOqyS3T0oivQfJM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\coloring.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\colors\scheme-01.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>css/colors/scheme-01.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nnlx94y5rv</Fingerprint>
+      <Integrity>44Q3pfrz3HgPHzLXXasquCpYJhiM3tyW9pT+OQU4rsY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\colors\scheme-01.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\custom-animate.css'))">
       <SourceType>Package</SourceType>
@@ -2952,6 +2988,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\jquery-ui.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\jquery.countdown.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>css/jquery.countdown.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>66z4kajuoe</Fingerprint>
+      <Integrity>8sg3l6LcDnidTpKprEbPbTNSb3ODhnKYHFhWBerDdlM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\jquery.countdown.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\jquery.fancybox.min.css'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
@@ -3023,6 +3077,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\owl.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\owl.video.play.html'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>css/owl.video.play.html</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ckr7ohxaf5</Fingerprint>
+      <Integrity>TBPUUt1dSWcb2TyjLytPhceOObarCtHzjZjtJn+P2JY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\owl.video.play.html'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\patterns\1.png'))">
       <SourceType>Package</SourceType>
@@ -5400,6 +5472,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.css'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styleprofile.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>css/styleprofile.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tfwpl7bmyf</Fingerprint>
+      <Integrity>h65rh5iQfIqNpn14Gc1IRHAAVGhIa9EnIMUhkA2TAPs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styleprofile.css'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\email_templates\action.html'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
@@ -6156,509 +6246,419 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font-awesome\scss\_variables.scss'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.eot'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.eot'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-brands-400.eot</RelativePath>
+      <RelativePath>font/elegant_font/HTML_CSS/fonts/ElegantIcons.eot</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>z7w6znbiqe</Fingerprint>
-      <Integrity>YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk=</Integrity>
+      <Fingerprint>b1kgfjbnt8</Fingerprint>
+      <Integrity>kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.eot'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.eot'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.svg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.svg'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-brands-400.svg</RelativePath>
+      <RelativePath>font/elegant_font/HTML_CSS/fonts/ElegantIcons.svg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1c2cmve962</Fingerprint>
-      <Integrity>0WgXIGDHzvMXyLqh1el/EMLqc87l7NaGIRu+RLicZ2M=</Integrity>
+      <Fingerprint>r9dtzxkrgl</Fingerprint>
+      <Integrity>kfBooGp41ezeoFcaO1b1HXI84a2/W6ZCg+zBgFsE5gs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.svg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.svg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.ttf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.ttf'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-brands-400.ttf</RelativePath>
+      <RelativePath>font/elegant_font/HTML_CSS/fonts/ElegantIcons.ttf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wcbt48fpxi</Fingerprint>
-      <Integrity>QE1ggxk+VpvFwox7G8DhPs6AxuD1pQrY6WM/SPPAkVU=</Integrity>
+      <Fingerprint>nxc4ndomdq</Fingerprint>
+      <Integrity>e+VS/MNYZcBFz6/eFeeTnFV8uIgBoav0YaT+vG1V/qA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.ttf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.ttf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.woff'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.woff'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-brands-400.woff</RelativePath>
+      <RelativePath>font/elegant_font/HTML_CSS/fonts/ElegantIcons.woff</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8ydk4ssyn7</Fingerprint>
-      <Integrity>oDdcBUoAQb1Y4qC/f6PffDkEv8T3kP0k4y/z7nD9Du8=</Integrity>
+      <Fingerprint>a19wnf102w</Fingerprint>
+      <Integrity>vhgl5SoNx98E35Mi9iq+Ki8qJdmKrBht4BQN/H9r3K4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.woff'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIcons.woff'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.woff2'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIconsd41d.eot'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-brands-400.woff2</RelativePath>
+      <RelativePath>font/elegant_font/HTML_CSS/fonts/ElegantIconsd41d.eot</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>v811knsmg3</Fingerprint>
-      <Integrity>cbPOcmgPQYPSjbhrGEVCBR/VM7sRRpMyM+T2ogz5jLo=</Integrity>
+      <Fingerprint>b1kgfjbnt8</Fingerprint>
+      <Integrity>kStPzCMuH0XTKeKhJ7ykvfMZXZZaKrziI7Bo48PH22o=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400.woff2'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\fonts\ElegantIconsd41d.eot'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400d41d.eot'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\style.css'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-brands-400d41d.eot</RelativePath>
+      <RelativePath>font/elegant_font/HTML_CSS/style.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>z7w6znbiqe</Fingerprint>
-      <Integrity>YSjdRP7ToEb/jYNdZ34Kg3xwxk3ByUS37f3gTrjYuHk=</Integrity>
+      <Fingerprint>ldqmk4q5dc</Fingerprint>
+      <Integrity>98wYEPa0joGsMuvhgNb1EWaNGNSsL2aMuM2X8Jpip/M=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-brands-400d41d.eot'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\elegant_font\HTML_CSS\style.css'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.eot'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.eot'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-regular-400.eot</RelativePath>
+      <RelativePath>font/et-line-font/fonts/et-line.eot</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bv65wiaad7</Fingerprint>
-      <Integrity>+YU60zfVI8CzX+esMGJopwNc4P92JHEO2LOcK4iyCjM=</Integrity>
+      <Fingerprint>jzchy2hkkp</Fingerprint>
+      <Integrity>/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.eot'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.eot'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.svg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.svg'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-regular-400.svg</RelativePath>
+      <RelativePath>font/et-line-font/fonts/et-line.svg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>51b8lhg7lf</Fingerprint>
-      <Integrity>Jz0l4+4cLN+2xFia+jqOIEFnjvWDJAWIZOxsNiUFa0M=</Integrity>
+      <Fingerprint>rowj6o7vs2</Fingerprint>
+      <Integrity>xX2BNOk479DNAz/LDaLJLgQTFT3ZBUBrmU+67t2872A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.svg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.svg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.ttf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.ttf'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-regular-400.ttf</RelativePath>
+      <RelativePath>font/et-line-font/fonts/et-line.ttf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>u5l2ncczie</Fingerprint>
-      <Integrity>XoEfCzLUiLmhg7d8/HrB70Sz6nqu0BToOXXf5ZfSIfY=</Integrity>
+      <Fingerprint>0e1faxxpn0</Fingerprint>
+      <Integrity>yHI2tXg/T75YLiEid1qL7FJWSFAGCuFyUNekJl2NQqM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.ttf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.ttf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.woff'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.woff'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-regular-400.woff</RelativePath>
+      <RelativePath>font/et-line-font/fonts/et-line.woff</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nseiyvca0a</Fingerprint>
-      <Integrity>Z5nJmeQicQ9A9wpgphOPw4EGImxE170bECP1u2W+/vk=</Integrity>
+      <Fingerprint>vepl6tix8c</Fingerprint>
+      <Integrity>GdL0PVRq2nPdCD93eKpKXKwajno69W78yuWA/OB6Xhw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.woff'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-line.woff'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.woff2'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-lined41d.eot'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-regular-400.woff2</RelativePath>
+      <RelativePath>font/et-line-font/fonts/et-lined41d.eot</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6r2d8ysko6</Fingerprint>
-      <Integrity>ziDtijIxF8inGP8d3G2ruZc3O1dajolvK/ArhGwILJ0=</Integrity>
+      <Fingerprint>jzchy2hkkp</Fingerprint>
+      <Integrity>/xVevwVh3BQWD3t/cT4htDl6rEEWJzQK8NhhwRSQqoc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400.woff2'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\fonts\et-lined41d.eot'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400d41d.eot'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\style.css'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-regular-400d41d.eot</RelativePath>
+      <RelativePath>font/et-line-font/style.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>bv65wiaad7</Fingerprint>
-      <Integrity>+YU60zfVI8CzX+esMGJopwNc4P92JHEO2LOcK4iyCjM=</Integrity>
+      <Fingerprint>watjrgm1dj</Fingerprint>
+      <Integrity>GPb+mbZBUG4l12JoEC1nO0mcJ1I+oXhpRV+kI8ahMX8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-regular-400d41d.eot'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\et-line-font\style.css'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.eot'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\css\font-awesome.css'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-solid-900.eot</RelativePath>
+      <RelativePath>font/font-awesome/css/font-awesome.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>clmy5u2z4q</Fingerprint>
-      <Integrity>4OPEryg0jXIfivYDWVwV0nOlbysDOS+aQTJV/lY19TY=</Integrity>
+      <Fingerprint>mtdjrxbtpo</Fingerprint>
+      <Integrity>uttM/NIA02dbs/nP1B+LooXxsIClKpBd42JWAAJ25V4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.eot'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\css\font-awesome.css'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.svg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.eot'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-solid-900.svg</RelativePath>
+      <RelativePath>font/font-awesome/fonts/fontawesome-webfont3e6e.eot</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ftkrvrur3t</Fingerprint>
-      <Integrity>3fLGDDToGgOzjTyqtwXw2HxAMExDLNTtbqf8xHy2C8Q=</Integrity>
+      <Fingerprint>pz0qgnv39v</Fingerprint>
+      <Integrity>e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.svg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.eot'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.ttf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.svg'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-solid-900.ttf</RelativePath>
+      <RelativePath>font/font-awesome/fonts/fontawesome-webfont3e6e.svg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4ascr2x969</Fingerprint>
-      <Integrity>LK3tJCwEE5dhdC/gzaf2WS3xtmhoV1MsinwuJTa5duQ=</Integrity>
+      <Fingerprint>dosqy3kf6t</Fingerprint>
+      <Integrity>rWFXkmwWIrpOHQPUePFUE2hSS/xG9R5C/g2UX37zI+Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.ttf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.svg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.woff'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.ttf'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-solid-900.woff</RelativePath>
+      <RelativePath>font/font-awesome/fonts/fontawesome-webfont3e6e.ttf</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>mx3fookxtw</Fingerprint>
-      <Integrity>qrlxreFjOrg2IiB0zq4KrYoILZAJCPJ0kbIh1ug5mMo=</Integrity>
+      <Fingerprint>yex6mt8az7</Fingerprint>
+      <Integrity>qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.woff'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.ttf'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.woff2'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.woff'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-solid-900.woff2</RelativePath>
+      <RelativePath>font/font-awesome/fonts/fontawesome-webfont3e6e.woff</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>32yozghl5z</Fingerprint>
-      <Integrity>a1VZIONY+KJaQimItEhhXDO8zLT5MugzHOv8jipzf8c=</Integrity>
+      <Fingerprint>eyrbpue749</Fingerprint>
+      <Integrity>ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900.woff2'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.woff'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900d41d.eot'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.woff2'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/fa-solid-900d41d.eot</RelativePath>
+      <RelativePath>font/font-awesome/fonts/fontawesome-webfont3e6e.woff2</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>clmy5u2z4q</Fingerprint>
-      <Integrity>4OPEryg0jXIfivYDWVwV0nOlbysDOS+aQTJV/lY19TY=</Integrity>
+      <Fingerprint>2hr3gl3r5x</Fingerprint>
+      <Integrity>Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\fa-solid-900d41d.eot'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfont3e6e.woff2'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.eot'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfontd41d.eot'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/flaticon.eot</RelativePath>
+      <RelativePath>font/font-awesome/fonts/fontawesome-webfontd41d.eot</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m4x1ouwraw</Fingerprint>
-      <Integrity>CpKbd/lg4dfYXJfkucYn3mDQHz+NoGRHQwcJn4/EJWA=</Integrity>
+      <Fingerprint>pz0qgnv39v</Fingerprint>
+      <Integrity>e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.eot'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\font-awesome\fonts\fontawesome-webfontd41d.eot'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.svg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\fonts\icofont.woff'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/flaticon.svg</RelativePath>
+      <RelativePath>font/icofont/fonts/icofont.woff</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>yd9b0s9j38</Fingerprint>
-      <Integrity>RkR7UQP8WVc1YOhnf5pd5CuPF25OEEBVKyBpfXRxhGU=</Integrity>
+      <Fingerprint>bupiwmr2vo</Fingerprint>
+      <Integrity>U7u9pUgKAxpx/BaDUsGKgWVKMwx4eE6zA8Ueio3uZsQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.svg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\fonts\icofont.woff'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.ttf'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\fonts\icofont.woff2'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/flaticon.ttf</RelativePath>
+      <RelativePath>font/icofont/fonts/icofont.woff2</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>rjcwbf8bai</Fingerprint>
-      <Integrity>eTFI8Wz0QNunhdQowQcc7nS0ibFUq2o1Fp7EGtEPVqw=</Integrity>
+      <Fingerprint>k2wu4kwykg</Fingerprint>
+      <Integrity>JC5UKHG9d8j/Y3VBjjSe9rOjKiCOFcoUQRZmQdISpqE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.ttf'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\fonts\icofont.woff2'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.woff'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\icofont.min.css'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/flaticon.woff</RelativePath>
+      <RelativePath>font/icofont/icofont.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>un74eiy7wc</Fingerprint>
-      <Integrity>yjUNO7OCtggjEDEifHL5uWBsOqXopkZU7Yja+2jmQq0=</Integrity>
+      <Fingerprint>nh4e8fyqvv</Fingerprint>
+      <Integrity>xa2LOZthXs/I9jYowbrXHPEUdwAqUTkP0dzKHys0OB4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticon.woff'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\font\icofont\icofont.min.css'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticond41d.eot'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/flaticond41d.eot</RelativePath>
+      <RelativePath>images/1.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>m4x1ouwraw</Fingerprint>
-      <Integrity>CpKbd/lg4dfYXJfkucYn3mDQHz+NoGRHQwcJn4/EJWA=</Integrity>
+      <Fingerprint>r6dk7mwmwr</Fingerprint>
+      <Integrity>w35DEGc7HhYhPBm84zRn/0aIwqg8SQZPvqHyadS3gfo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\flaticond41d.eot'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.eot'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CarInsuranceManage</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/glyphicons-halflings-regular.eot</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>torz25362b</Fingerprint>
-      <Integrity>E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.eot'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.svg'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CarInsuranceManage</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/glyphicons-halflings-regular.svg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>r3m9qmfdw3</Fingerprint>
-      <Integrity>2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.svg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.ttf'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CarInsuranceManage</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/glyphicons-halflings-regular.ttf</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>li0e4nnnks</Fingerprint>
-      <Integrity>45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.ttf'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.woff'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CarInsuranceManage</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/glyphicons-halflings-regular.woff</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qqew9mh6jt</Fingerprint>
-      <Integrity>omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.woff'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.woff2'))">
-      <SourceType>Package</SourceType>
-      <SourceId>CarInsuranceManage</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/CarInsuranceManage</BasePath>
-      <RelativePath>fonts/glyphicons-halflings-regular.woff2</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>y3zdydnkm9</Fingerprint>
-      <Integrity>/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\fonts\glyphicons-halflings-regular.woff2'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\background\1.jpg'))">
       <SourceType>Package</SourceType>
@@ -7451,6 +7451,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\icons\slider-arrow.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\idolhoi.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>images/idolhoi.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>8y5tb1p6q9</Fingerprint>
+      <Integrity>YGJl88tMbtwKwHwXYENlBPHgNdWc/rPy5E6b/GnHico=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\idolhoi.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\logo.png'))">
       <SourceType>Package</SourceType>
@@ -23958,6 +23976,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\demo\sparkline-demo.js'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\designesia.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>js/designesia.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dlkev40q8y</Fingerprint>
+      <Integrity>PxG+2B9U4j/uRjmzGo2fnGe2TL4WuknqO590uIue7LI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\designesia.js'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\inspinia.js'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
@@ -24173,6 +24209,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\parallax.min.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\plugins.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>js/plugins.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lq9mpo9uil</Fingerprint>
+      <Integrity>zQMpyG8AvUE7rRJ0Pqau4LVEjYJy5YdiSzAJW9ecpBE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\plugins.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\plugins\blueimp\jquery.blueimp-gallery.min.js'))">
       <SourceType>Package</SourceType>
