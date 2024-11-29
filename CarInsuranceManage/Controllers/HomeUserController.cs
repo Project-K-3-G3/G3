@@ -4,11 +4,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CarInsuranceManage.Controllers
 {
-    public class HomeController : Controller
+    public class HomeUserController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<HomeUserController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeUserController(ILogger<HomeUserController> logger)
         {
             _logger = logger;
         }

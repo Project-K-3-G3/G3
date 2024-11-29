@@ -708,9 +708,6 @@ C:\laragon\www\CarInsuranceManage\CarInsuranceManage\obj\Debug\net9.0\compressed
 C:\laragon\www\CarInsuranceManage\CarInsuranceManage\obj\Debug\net9.0\compressed\ruzehrhvbm-5agsmps0vz.gz
 C:\laragon\www\CarInsuranceManage\CarInsuranceManage\obj\Debug\net9.0\compressed\rcqakh3wiq-abjuyxsjk4.gz
 C:\laragon\www\CarInsuranceManage\CarInsuranceManage\obj\Debug\net9.0\compressed\om5n42gmdm-8qa93hhlur.gz
-D:\FPT APTECH\eProject3\project3\CarInsuranceManage\bin\Debug\net9.0\Admin\js\api\typehead_collection.json
-D:\FPT APTECH\eProject3\project3\CarInsuranceManage\bin\Debug\net9.0\Admin\locales\en.json
-D:\FPT APTECH\eProject3\project3\CarInsuranceManage\bin\Debug\net9.0\Admin\locales\es.json
 D:\FPT APTECH\eProject3\project3\CarInsuranceManage\bin\Debug\net9.0\appsettings.Development.json
 D:\FPT APTECH\eProject3\project3\CarInsuranceManage\bin\Debug\net9.0\CarInsuranceManage.staticwebassets.runtime.json
 D:\FPT APTECH\eProject3\project3\CarInsuranceManage\bin\Debug\net9.0\CarInsuranceManage.staticwebassets.endpoints.json

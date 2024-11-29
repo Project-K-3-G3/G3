@@ -39,6 +39,6 @@ app.UseAuthorization();  // Nếu sử dụng xác thực, cần gọi UseAuthen
 // Cấu hình Route cho các controller
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=HomeUser}/{action=Index}/{id?}");
 
 app.Run();

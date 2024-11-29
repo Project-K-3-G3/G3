@@ -36,32 +36,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxzaWduX3VwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Admin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Feedback/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZGJhY2tcY29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Home/about.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
+[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/HomeUser/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcYWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Home/blog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxibG9nLmNzaHRtbA==
+[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/HomeUser/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcYmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/HomeUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Home/insurance_form.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbnN1cmFuY2VfZm9ybS5jc2h0bWw=
+[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/HomeUser/insurance_form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJcaW5zdXJhbmNlX2Zvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Home/privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwcml2YWN5LmNzaHRtbA==
+[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/HomeUser/privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVVzZXJccHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Insurance/services.cshtml]
@@ -82,10 +78,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Shared/_LayoutAdmin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/FPT APTECH/eProject3/project3/CarInsuranceManage/Views/Shared/_layoutProfileUser.cshtml]
