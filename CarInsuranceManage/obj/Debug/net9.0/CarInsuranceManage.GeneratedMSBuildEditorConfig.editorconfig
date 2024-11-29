@@ -17,49 +17,65 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CarInsuranceManage
 build_property.RootNamespace = CarInsuranceManage
-build_property.ProjectDir = C:\laragon\www\CarInsuranceManage\CarInsuranceManage\
+build_property.ProjectDir = F:\T2307A\semester3\project3\CarInsuranceManage\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\laragon\www\CarInsuranceManage\CarInsuranceManage
+build_property.MSBuildProjectDirectory = F:\T2307A\semester3\project3\CarInsuranceManage
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/laragon/www/CarInsuranceManage/CarInsuranceManage/Views/Admin/Index.cshtml]
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/CarInsuranceManage/CarInsuranceManage/Views/Home/Index.cshtml]
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/CarInsuranceManage/CarInsuranceManage/Views/Home/Privacy.cshtml]
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/CarInsuranceManage/CarInsuranceManage/Views/Shared/Error.cshtml]
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/CarInsuranceManage/CarInsuranceManage/Views/Shared/_Layout.cshtml]
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/CarInsuranceManage/CarInsuranceManage/Views/Shared/_LayoutAdmin.cshtml]
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/CarInsuranceManage/CarInsuranceManage/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/CarInsuranceManage/CarInsuranceManage/Views/_ViewImports.cshtml]
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/laragon/www/CarInsuranceManage/CarInsuranceManage/Views/_ViewStart.cshtml]
+[F:/T2307A/semester3/project3/CarInsuranceManage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -18,7 +18,39 @@ namespace CarInsuranceManage.Controllers
             return View();
         }
 
+        public IActionResult AboutUs()
+        {
+            return View();
+        }
+        public IActionResult Services()
+        {
+            return View();
+        }
+        public IActionResult Blog()
+        {
+            return View();
+        }
+        public IActionResult Login()
+        {
+            return View();
+        }
+        public IActionResult SignUp()
+        {
+            return View();
+        }
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult Terms()
+        {
+            return View();
+        }
+        public IActionResult InsuranceForm()
+        {
+            return View();
+        }
+        public IActionResult Contact()
         {
             return View();
         }
