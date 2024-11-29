@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CarInsuranceManage.Migrations
 {
     [DbContext(typeof(CarInsuranceDbContext))]
-    [Migration("20241123201119_carinsurance")]
-    partial class Carinsurance
+    [Migration("20241129091259_CarInsurance")]
+    partial class CarInsurance
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

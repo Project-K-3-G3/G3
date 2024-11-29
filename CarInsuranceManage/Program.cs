@@ -11,6 +11,9 @@ builder.Services.AddDbContext<CarInsuranceDbContext>(options =>
 // Thêm dịch vụ MVC vào container
 builder.Services.AddControllersWithViews();
 
+// Thêm cấu hình routing để URL luôn viết chữ thường
+builder.Services.AddRouting(options => options.LowercaseUrls = true);
+
 // Xây dựng ứng dụng
 var app = builder.Build();
 
@@ -41,4 +44,5 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+// Chạy ứng dụng
 app.Run();

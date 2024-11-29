@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>my8ydnepet</Fingerprint>
-      <Integrity>IpUMpqGDZ8OuZW9z4JvZZyu9BbrR+IHJci8xCPgF9AY=</Integrity>
+      <Fingerprint>33k7f7p5og</Fingerprint>
+      <Integrity>keP3+wrGpeXOcm/60FoJK9Y0qCgf28WShTAeLXoa/O8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\style.css'))</OriginalItemSpec>
@@ -125,6 +125,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\cryptocoins\fonts\cryptocoins.woff2'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\facebook.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>assets/icons/facebook.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>aajgp0tmys</Fingerprint>
+      <Integrity>os5spd3wBXh8omtFWWQrbPMdAw3OR7jOurEZ1EAeCTM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\facebook.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\flag-icon-css\flag-icon.min.css'))">
       <SourceType>Package</SourceType>
@@ -4752,6 +4770,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\font-awesome\fonts\fontawesome-webfontd41dd41d.eot'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\google.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarInsuranceManage</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarInsuranceManage</BasePath>
+      <RelativePath>assets/icons/google.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qmu3fh8oyt</Fingerprint>
+      <Integrity>Lm9zQ0RltjS+3qn3A/yVBoN3HRMmsDlOWDgeMw2TX58=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\google.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\icons\ionicons\css\ionicons.css'))">
       <SourceType>Package</SourceType>
       <SourceId>CarInsuranceManage</SourceId>
@@ -6294,8 +6330,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dadxc3u7yb</Fingerprint>
-      <Integrity>eyY/eox+FvixgSa+aw/UtxYwwxui3mKAWp1Fl9H52Jw=</Integrity>
+      <Fingerprint>gqd2wwpnxx</Fingerprint>
+      <Integrity>+F0wWKbrBa+yBk/IrHxwc7aUqWovh7DIa0THwk2Ir28=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\blog\1.html'))</OriginalItemSpec>
@@ -6312,8 +6348,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>t9l8qtdjq7</Fingerprint>
-      <Integrity>T2SyJmt+a52sFLsL80JMZZt9W/1I0l5XTI5WAq6Aesk=</Integrity>
+      <Fingerprint>pz2ylungqi</Fingerprint>
+      <Integrity>W9+NmCKJR9fW98GoaiE1BLD0EK6T7Mal6PrsKIToaqQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\blog\2.html'))</OriginalItemSpec>
@@ -6330,8 +6366,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5ic667gohc</Fingerprint>
-      <Integrity>zcYAjotwJJc/AKb14Am/zl52PaixSQQ4vA+fbsTy/Hw=</Integrity>
+      <Fingerprint>3hia1u5qwl</Fingerprint>
+      <Integrity>+dpN12zbV93p0mmkRBl+KNQzaKyTfNls+suntzRG20A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\blog\3.html'))</OriginalItemSpec>
@@ -6348,8 +6384,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>4xbpqz4gqm</Fingerprint>
-      <Integrity>aPGMbt/cBNmI8mIMAYxttb39whDtWOZq09j0vSQgW7I=</Integrity>
+      <Fingerprint>4tzoj3ldt4</Fingerprint>
+      <Integrity>uMXU1+G3e9qrHFTwbmOQnIdkU+2sJGaRxGLfoK6UBsc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\images\blog\4.html'))</OriginalItemSpec>
@@ -7590,8 +7626,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>tas5gry4xs</Fingerprint>
-      <Integrity>e2UIyejgTejr/sXeLOHEMDvEagonkoPv9+JIwckAqRs=</Integrity>
+      <Fingerprint>3w5og6hl44</Fingerprint>
+      <Integrity>LZTVHORKwGDAM3RFo6aolU05Es/MVhmBsSfo/xftC5s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\plugins\perfect-scrollbar\css\perfect-scrollbar.css'))</OriginalItemSpec>
