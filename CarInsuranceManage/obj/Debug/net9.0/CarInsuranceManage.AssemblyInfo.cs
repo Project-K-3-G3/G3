@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarInsuranceManage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+050ff29bf607868f8c02a9e5d629a4a1db7785c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3bac7d622ab1b72455f986ae2100bce05cdaa77")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarInsuranceManage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarInsuranceManage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

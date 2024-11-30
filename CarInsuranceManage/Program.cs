@@ -4,13 +4,15 @@ using CarInsuranceManage.Database; // Thay đổi theo namespace của dự án 
 
 var builder = WebApplication.CreateBuilder(args);
 
-
 // Cấu hình DbContext với SQLite
 builder.Services.AddDbContext<CarInsuranceDbContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("CarInsuranceDb"))); // Sử dụng connection string từ appsettings.json hoặc trực tiếp
 
 // Thêm dịch vụ MVC vào container
 builder.Services.AddControllersWithViews();
+
+// Thêm cấu hình routing để URL luôn viết chữ thường
+builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
 // Xây dựng ứng dụng
 var app = builder.Build();
@@ -31,7 +33,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();  // Cấu hình cho phép phục vụ các tài nguyên tĩnh như hình ảnh, CSS, JS
-app.MapDefaultControllerRoute();
+
 app.UseRouting();
 
 // Cấu hình cho phép xác thực và ủy quyền (nếu có)
@@ -40,6 +42,7 @@ app.UseAuthorization();  // Nếu sử dụng xác thực, cần gọi UseAuthen
 // Cấu hình Route cho các controller
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=HomeUser}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=IndexUser}/{id?}");
 
+// Chạy ứng dụng
 app.Run();
