@@ -1817,6 +1817,646 @@
       "PackagePath": "staticwebassets\\admin-assets\\plugins\\wnumb\\wNumb.js"
     },
     {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\color-switcher-design.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\color-switcher-design.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\coloring.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\coloring.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\colors\\scheme-01.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\colors\\scheme-01.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\custom-animate.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\custom-animate.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\footer.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\footer.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\global.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\global.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\header.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\header.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\jquery.countdown.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\jquery.countdown.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\niceselect.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\niceselect.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\owl.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\preloader.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\preloader.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\styleprofile.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\styleprofile.css"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticon.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticon.eot"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticon.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticon.svg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticon.ttf"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticon.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticon.woff"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\flaticond41d.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\flaticond41d.eot"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\customer-assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\1.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\2.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\3.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\4.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\4.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\5.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\5.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\6.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\6.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\7.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\7.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\box-item-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\box-item-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\contact-right-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\contact-right-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\contact-us-2-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\contact-us-2-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\footer-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\footer-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\header-left-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\header-left-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\home-2-header-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\home-2-header-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\insurance-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\insurance-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\insurance-form-right-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\insurance-form-right-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\newsletter-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\newsletter-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-2.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-2.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-3.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-3.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-4.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-4.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-5.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-5.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-7.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-7.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-8.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-8.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\pattern-9.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\pattern-9.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\background\\planes-group.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\background\\planes-group.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\1.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\2.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\3.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\4.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\clients\\5.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\clients\\5.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\cross-out.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\cross-out.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\dotted-about-us-bg.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\dotted-about-us-bg.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\home-2-about-us-1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\home-2-about-us-1.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\home-2-about-us-2.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\home-2-about-us-2.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\home-2-about-us-3.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\home-2-about-us-3.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\left-bg-rect.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\left-bg-rect.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\home-2-footer-logo.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\home-2-footer-logo.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\icon-1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\icon-1.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\load-icon.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\load-icon.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\quote-icon.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\quote-icon.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\signature-1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\signature-1.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\signature.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\signature.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\icons\\slider-arrow.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\icons\\slider-arrow.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\logo-small.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\logo-small.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\logo-white.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\content-image.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\content-image.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-1.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-1.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-2.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-2.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-3.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-3.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-4.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-4.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-5.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-5.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\main-slider\\pattern-6.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\main-slider\\pattern-6.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\about.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\about.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-1.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-2.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-3.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-4.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-4.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\author-5.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\author-5.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\award.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\award.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\choose.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\choose.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\experiance.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\experiance.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\faq.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\faq.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\help.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\help.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\insurance.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\insurance.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-3.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-4.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-4.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-5.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-5.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\news-6.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\news-6.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\not-found.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\not-found.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\post-thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\price.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\price.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\service-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\service-1.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\service-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\service-2.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\service-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\service-3.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\services.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\services.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\skill.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\skill.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-1.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-2.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-3.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-4.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\team-5.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\team-5.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\resource\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\resource\\testimonial.jpg"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\appear.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\appear.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\color-settings.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\color-settings.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery-ui copy 2.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery-ui copy 2.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery-ui copy.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery-ui copy.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.fancybox.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.fancybox.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\nav-tool.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\nav-tool.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\owl.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\validate.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\validate.js"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\js\\wow.js",
+      "PackagePath": "staticwebassets\\customer-assets\\js\\wow.js"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.CarInsuranceManage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

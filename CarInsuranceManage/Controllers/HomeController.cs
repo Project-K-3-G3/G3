@@ -4,14 +4,21 @@ namespace CarInsuranceManage.Controllers
 {
     public class HomeController : Controller
     {
+        // public IActionResult Index()
+        // {
+        //     return View("~/Views/Admin/Home/Index.cshtml"); 
+        // }
         public IActionResult Index()
         {
-            return View("~/Views/Admin/Home/Index.cshtml"); 
+            return View("~/Views/Customer/Home/Index.cshtml"); 
         }
-
-        public IActionResult Dashboard()
+        public IActionResult Privacy()
         {
-            return View("~/Views/Admin/Home/Dashboard.cshtml");
+            return View("~/Views/Customer/Home/Index.cshtml"); 
         }
+        //public IActionResult Dashboard()
+        //{
+        //    return View("~/Views/Admin/Home/Dashboard.cshtml");
+        //}
     }
 }
