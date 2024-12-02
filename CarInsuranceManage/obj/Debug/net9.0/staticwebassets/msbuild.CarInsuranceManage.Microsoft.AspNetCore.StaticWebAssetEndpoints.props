@@ -5592,6 +5592,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j9swq6vs75"},{"Name":"integrity","Value":"sha256-6YZxj/v8QCu0YYZqF7kY7QMCoS4HqteN4H1OflA2H9Q="},{"Name":"label","Value":"_content/CarInsuranceManage/customer-assets/css/header.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18876"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226YZxj/v8QCu0YYZqF7kY7QMCoS4HqteN4H1OflA2H9Q=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 10:23:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/customer-assets/css/icon.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\customer-assets\css\icon.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N7DZ00NdmZC2SGaiX4bojtGBOF1szvHsjc39iZxEddQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"244"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N7DZ00NdmZC2SGaiX4bojtGBOF1szvHsjc39iZxEddQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 13:21:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/customer-assets/css/icon.h6ma5vs8xz.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\customer-assets\css\icon.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h6ma5vs8xz"},{"Name":"integrity","Value":"sha256-N7DZ00NdmZC2SGaiX4bojtGBOF1szvHsjc39iZxEddQ="},{"Name":"label","Value":"_content/CarInsuranceManage/customer-assets/css/icon.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"244"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022N7DZ00NdmZC2SGaiX4bojtGBOF1szvHsjc39iZxEddQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 13:21:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/customer-assets/css/jquery-ui.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\customer-assets\css\jquery-ui.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -6432,6 +6444,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xvewxj2txt"},{"Name":"integrity","Value":"sha256-o5/A7hwzm7KpUaufqd5zfK7rNdmfWf/RiglxKg5HvLg="},{"Name":"label","Value":"_content/CarInsuranceManage/customer-assets/images/cross-out.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"413"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022o5/A7hwzm7KpUaufqd5zfK7rNdmfWf/RiglxKg5HvLg=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 10:23:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/customer-assets/images/facebook-login.aajgp0tmys.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\customer-assets\images\facebook-login.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aajgp0tmys"},{"Name":"integrity","Value":"sha256-os5spd3wBXh8omtFWWQrbPMdAw3OR7jOurEZ1EAeCTM="},{"Name":"label","Value":"_content/CarInsuranceManage/customer-assets/images/facebook-login.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"895"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022os5spd3wBXh8omtFWWQrbPMdAw3OR7jOurEZ1EAeCTM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 13:12:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/customer-assets/images/facebook-login.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\customer-assets\images\facebook-login.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-os5spd3wBXh8omtFWWQrbPMdAw3OR7jOurEZ1EAeCTM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"895"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022os5spd3wBXh8omtFWWQrbPMdAw3OR7jOurEZ1EAeCTM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 13:12:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/customer-assets/images/favicon.1grvw0pllp.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\customer-assets\images\favicon.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -6515,6 +6539,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qw6hpulfx0"},{"Name":"integrity","Value":"sha256-Oj4fTtO20rEB1hSUtPidwIIY2\u002BbV5pPn78OycRbsmzI="},{"Name":"label","Value":"_content/CarInsuranceManage/customer-assets/images/gallery/left-bg-rect.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7816"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Oj4fTtO20rEB1hSUtPidwIIY2\u002BbV5pPn78OycRbsmzI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 10:23:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/customer-assets/images/google-login.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\customer-assets\images\google-login.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Lm9zQ0RltjS\u002B3qn3A/yVBoN3HRMmsDlOWDgeMw2TX58="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1389"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Lm9zQ0RltjS\u002B3qn3A/yVBoN3HRMmsDlOWDgeMw2TX58=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 13:13:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/customer-assets/images/google-login.qmu3fh8oyt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\customer-assets\images\google-login.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qmu3fh8oyt"},{"Name":"integrity","Value":"sha256-Lm9zQ0RltjS\u002B3qn3A/yVBoN3HRMmsDlOWDgeMw2TX58="},{"Name":"label","Value":"_content/CarInsuranceManage/customer-assets/images/google-login.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1389"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Lm9zQ0RltjS\u002B3qn3A/yVBoN3HRMmsDlOWDgeMw2TX58=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 13:13:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarInsuranceManage/customer-assets/images/home-2-footer-logo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\customer-assets\images\home-2-footer-logo.png'))</AssetFile>

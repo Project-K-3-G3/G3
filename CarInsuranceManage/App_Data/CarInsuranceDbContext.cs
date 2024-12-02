@@ -31,10 +31,14 @@ namespace CarInsuranceManage.Database
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlite("Data Source=carinsurance.db");
-            }
+            // if (!optionsBuilder.IsConfigured)
+            // {
+            //     optionsBuilder.UseSqlite("Data Source=carinsurance.db");
+            // }
+             // Thay thế SQLite bằng MySQL
+        optionsBuilder.UseMySql(
+            "server=localhost;database=CarInsuranceDb;user=root;password=;", 
+            ServerVersion.AutoDetect("server=localhost;database=CarInsuranceDb;user=root;password=;"));
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

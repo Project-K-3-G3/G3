@@ -1865,6 +1865,10 @@
       "PackagePath": "staticwebassets\\customer-assets\\css\\header.css"
     },
     {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\icon.css",
+      "PackagePath": "staticwebassets\\customer-assets\\css\\icon.css"
+    },
+    {
       "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\css\\jquery-ui.css",
       "PackagePath": "staticwebassets\\customer-assets\\css\\jquery-ui.css"
     },
@@ -2145,6 +2149,10 @@
       "PackagePath": "staticwebassets\\customer-assets\\images\\cross-out.png"
     },
     {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\facebook-login.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\facebook-login.png"
+    },
+    {
       "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\customer-assets\\images\\favicon.png"
     },
@@ -2171,6 +2179,10 @@
     {
       "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\gallery\\left-bg-rect.png",
       "PackagePath": "staticwebassets\\customer-assets\\images\\gallery\\left-bg-rect.png"
+    },
+    {
+      "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\google-login.png",
+      "PackagePath": "staticwebassets\\customer-assets\\images\\google-login.png"
     },
     {
       "Id": "D:\\G3\\CarInsuranceManage\\wwwroot\\customer-assets\\images\\home-2-footer-logo.png",

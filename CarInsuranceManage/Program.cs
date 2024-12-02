@@ -1,12 +1,16 @@
 using Microsoft.EntityFrameworkCore;
 using CarInsuranceManage.Models;
-using CarInsuranceManage.Database; // Thay đổi theo namespace của dự án của bạn.
+using CarInsuranceManage.Database;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Cấu hình DbContext với SQLite
+// Cấu hình DbContext với MySQL
 builder.Services.AddDbContext<CarInsuranceDbContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("CarInsuranceDb"))); // Sử dụng connection string từ appsettings.json hoặc trực tiếp
+    options.UseMySql(
+        builder.Configuration.GetConnectionString("CarInsuranceDb"), 
+        ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("CarInsuranceDb"))
+    ));
+
 
 // Thêm dịch vụ MVC vào container
 builder.Services.AddControllersWithViews();
@@ -21,7 +25,7 @@ var app = builder.Build();
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<CarInsuranceDbContext>();
-    dbContext.Database.Migrate();  // Áp dụng migrations và seed data
+    dbContext.Database.Migrate(); // Áp dụng migrations và seed data
 }
 
 // Cấu hình HTTP request pipeline
