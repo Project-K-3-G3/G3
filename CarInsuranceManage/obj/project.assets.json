@@ -3111,24 +3111,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bahat\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\VAN NGUYEN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\G3\\CarInsuranceManage\\CarInsuranceManage.csproj",
+      "projectUniqueName": "D:\\SEM 3\\mvc\\Project-3\\G3\\CarInsuranceManage\\CarInsuranceManage.csproj",
       "projectName": "CarInsuranceManage",
-      "projectPath": "D:\\G3\\CarInsuranceManage\\CarInsuranceManage.csproj",
-      "packagesPath": "C:\\Users\\bahat\\.nuget\\packages\\",
-      "outputPath": "D:\\G3\\CarInsuranceManage\\obj\\",
+      "projectPath": "D:\\SEM 3\\mvc\\Project-3\\G3\\CarInsuranceManage\\CarInsuranceManage.csproj",
+      "packagesPath": "C:\\Users\\VAN NGUYEN\\.nuget\\packages\\",
+      "outputPath": "D:\\SEM 3\\mvc\\Project-3\\G3\\CarInsuranceManage\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\bahat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\VAN NGUYEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
